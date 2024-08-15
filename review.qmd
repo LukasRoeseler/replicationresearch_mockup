@@ -1,0 +1,59 @@
+---
+title: "Reviewer Guidelines"
+---
+
+# Transparency
+
+To make quality assurance as transparent as possible, reviews need to be signed by the reviewers and they will be published after each round of peer-review. They will be permanently linked with the submitted pre-print through a comment on PubPeer. This is regardless of whether the article is accepted, returned for revision, or rejected. PubPeer comments will be made by the journal.
+
+# Disclosures
+
+Reviewers are asked to make a recommendation (accept, revise, reject) and to justify their decision. Reviewers need to disclose whether they reviewed the preregistration, materials, data, and code. 
+
+# Reviewer code of conduct
+
+Reviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board\'s decisions.
+
+# Review checklist
+
+\[To be incorporated into OJS\]
+
+Please enter your decision and justification here.
+
+**Decision:**
+
+\[radio-button: accept, revise, reject\]
+
+**Justification / Comments for the authors:**
+
+\[open-ended\]
+
+**Review coverage:**
+
+Please indicate what parts of the submitted research you reviewed.
+
+-   manuscript
+
+-   original report
+
+-   supplemental materials (if submitted)
+
+-   preregistration
+
+-   materials
+
+-   data
+
+-   code
+
+-   push-button replicability
+
+**Disclosures:**
+
+-   I recommend a statistical expert to give feedback on the analyses.
+
+-   My comments adhere to the reviewer code of conduct in that they are constructive and targeted at improving the manuscript.
+
+-   I have been working together with the author / one of the authors.
+
+-   I have been working together with the editor handling this submission.

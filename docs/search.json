@@ -1,23 +1,114 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "submissions.html",
+    "href": "submissions.html",
+    "title": "Submissions",
+    "section": "",
+    "text": "Replication Research is a publication platform for replications and replications from various disciplines. Articles need to disclose what original study and hypothesis/claim they replicated or reproduced. For an up-to-date overview of the disciplines from which we accept submissions, please see the editorial board. Generally, we can provide adequate quality assurance and peer-review for cognitive, behavioral, and social science studies (psychology, economics, sociology, education sciences, political sciences).\nPlease note that the entire review process is open and reviews will be permanently linked with submitted manuscripts via their DOIs and Pubpeer.com regardless whether the article is accepted or rejected. This is so that quality assurance is transparent, and so that work provided by reviewers for Replication Research is credited and not discarded.\n&gt;&gt; Submission Portal [LINK to OJS]"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "submissions.html#replications-different-data",
+    "href": "submissions.html#replications-different-data",
+    "title": "Submissions",
+    "section": "Replications (different data)",
+    "text": "Replications (different data)\nReplication studies can be internal (i.e., by the same group of researchers), close, or conceptual (for a typology see Hüffmeier et al., REF). Authors can use their own format or a standardized template provided by Replication Research. This Standardized Replication Template (StaRT) is available online (https://osf.io/3jgxd).\nUpon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet)."
+  },
+  {
+    "objectID": "submissions.html#reproductions-same-data",
+    "href": "submissions.html#reproductions-same-data",
+    "title": "Submissions",
+    "section": "Reproductions (same data)",
+    "text": "Reproductions (same data)\nI4R\nSame authors?"
+  },
+  {
+    "objectID": "submissions.html#multi-study-articles",
+    "href": "submissions.html#multi-study-articles",
+    "title": "Submissions",
+    "section": "Multi-study articles",
+    "text": "Multi-study articles\nFor multi-study articles, a mix of replications and reproductions is possible. If possible, authors should conduct a mini meta-analysis. Authors need to disclose for each study whether it is a replication or reproduction."
+  },
+  {
+    "objectID": "submissions.html#student-reports",
+    "href": "submissions.html#student-reports",
+    "title": "Submissions",
+    "section": "Student Reports",
+    "text": "Student Reports\nArticles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be listed in the manuscript. Review for student reports is less strict and aimed to be faster (e.g., low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans). Reviews are still open and articles need to adhere to submission guidelines. Please note that students can also submit their articles as non-student reports."
+  },
+  {
+    "objectID": "submissions.html#registered-reports",
+    "href": "submissions.html#registered-reports",
+    "title": "Submissions",
+    "section": "Registered Reports",
+    "text": "Registered Reports\n[see OSF stuff!]"
+  },
+  {
+    "objectID": "submissions.html#badges",
+    "href": "submissions.html#badges",
+    "title": "Submissions",
+    "section": "Badges",
+    "text": "Badges\nFor articles meeting the requirements listed in the Author Guidelines, we assign the following badges:\n[hier Bildchen einfügen; können wir die von Meta Psych nehmen?]\n● Preregistered\n● Preregistered with analysis plan\n● Open Materials/Data/Code\n● Student Report"
+  },
+  {
+    "objectID": "Issues.html",
+    "href": "Issues.html",
+    "title": "Issues",
+    "section": "",
+    "text": "Submissions are not open yet. We plan to launch the journal in late 2025."
+  },
+  {
+    "objectID": "editorialteam.html",
+    "href": "editorialteam.html",
+    "title": "Editorial Team",
+    "section": "",
+    "text": "Person\nRole\n\n\nLR (?)\nJournal Manager\n\n\nLR (?)\nEditor-in-Chief\n\n\nMüCOS SHK\nEditorial Assistant\n\n\n\nEditorial Board, Psychology\n\n\n\nEditorial Board, Medicine\n\n\n\nEditorial Board, Biology\n\n\n\nEditorial Board, Political Sciences\n\n\n\nEditorial Board, Education Sciences\n\n\n\nAction Editor\n\n\n\nAdvisory Board\n\n\nSHK MüCOS\nReproducibility Manager\n\n\n\nReproducibility Team\n\n\n\nReproducibility Team\n\n\n\n\nEditorial Members' Conflict of Interest\nFor the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Journal",
+    "section": "",
+    "text": "Replication Research is an interdisciplinary journal for replication research. This includes reproductions, where the same code and data are used to verify the originally reported results, close replications, where new data is collected with a method closely resembling an original study, or conceptual replications, where a previously tested hypothesis is re-tested using new methods and new data. We currently accept replications from the social, cognitive, and behavioral sciences as well as medicine.\n\nDiamond Open Access without Processing Fees\nReplication Research is a researcher-led journal that is and will forever be free to read and to publish (Diamond Open Access, no Author Processing Charges).\n\n\nTruly Open Peer Review\nAll reviews are published after each round of peer-review, that is, regardless whether the manuscript is accepted or rejected for publication.\n\n\nReproducibility\nBefore publication, reproducibility checks are conducted for the reported results. Articles are not published unless these reproducibility checks are successful.\n\n\nArticle Types\nReplication Research accepts submissions that include reproducibility checks, internal or direct replications, close replications, and conceptual replications as long as the target study is specified and published.\nStudent first authors can but do not have to request \"student report\" status for their submissions, which results in less strict and faster peer review.\nFor more information, see the Submission Guidelines. [LINK]\n\n\nTOP Guidelines\n\n\n\n\n\n\n\n\nCriterion\nLevel\nExplanation\n\n\nData Citation\n3\nArticle provides appropriate citation for data and materials used consistent with journal’s author guidelines.\n\n\nData Transparency\n3\nData must be posted to a trusted repository. Exceptions must be identified at article submission.\n\n\nAnalysis Code Transparency\n3\nCode must be posted to a trusted repository. Exceptions must be identified at article submission.\n\n\nMaterials Transparency\n3\nMaterials must be posted to a trusted repository. Exceptions must be identified at article submission.\n\n\nDesign & Analysis Reporting Guidelines\n3\nJournal requires adherence to design transparency standards for review and publication.\n\n\nStudy Preregistration\n3\nArticle states whether preregistration of study exists, and, if so, allows journal access during peer review for verification.\n\n\nAnalysis Plan Preregistration\n3\nArticle states whether preregistration with analysis plan exists, and, if so, allows journal access during peer review for verification.\n\n\nReplication\n2\nJournal encourages submission of replication studies and conducts results blind review.\n\n\nRegistered Reports & Publication Bias\n3\nJournal accepts Registered Reports for novel studies.\n\n\nOpen Science Badges\n2\nJournal assigns badges.\n\n\n\n\n\nPublication Process\n\n\nTransparency Policy\n\n\nAdditional Information\nISSN:\nTop Factor: \nThe Nordic List: \nDOAJ:  \nFunding: Supported by \n\n\nContributions and References\nThese guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (https://open.lnu.se/index.php/metapsychology/about/submissions)."
+  },
+  {
+    "objectID": "collection.html",
+    "href": "collection.html",
+    "title": "Replication Collection",
+    "section": "",
+    "text": "This is an automatic collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\nDiscipline\nDescription\nOriginal Report\nReplication Report\n\n\n…\n…\n…\n…"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Replication Research",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Warning\n\n\n\nThis is a concept for the in development publication platform for replication research. Submissions are not open yet and all content is subject to change. If you have feedback, please get in touch with lukas.roeseler[at]uni-muenster.de."
+  },
+  {
+    "objectID": "index.html#free-to-read-free-to-publish",
+    "href": "index.html#free-to-read-free-to-publish",
+    "title": "Replication Research",
+    "section": "Free to read, free to publish",
+    "text": "Free to read, free to publish\nReplication Research is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions."
+  },
+  {
+    "objectID": "index.html#valuing-replication-research",
+    "href": "index.html#valuing-replication-research",
+    "title": "Replication Research",
+    "section": "Valuing replication research",
+    "text": "Valuing replication research\nReplications should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish high-quality replication research in an open and accessible way, we are here for you."
+  },
+  {
+    "objectID": "index.html#researcher-led",
+    "href": "index.html#researcher-led",
+    "title": "Replication Research",
+    "section": "Researcher-led",
+    "text": "Researcher-led\nReplication Research is hosted by the University of Münster and maintained by the Münster Center for Open Science (MüCOS) and the Framework for Open and Reproducible Research Training (FORRT)."
+  },
+  {
+    "objectID": "review.html",
+    "href": "review.html",
+    "title": "Reviewer Guidelines",
+    "section": "",
+    "text": "Transparency\nTo make quality assurance as transparent as possible, reviews need to be signed by the reviewers and they will be published after each round of peer-review. They will be permanently linked with the submitted pre-print through a comment on PubPeer. This is regardless of whether the article is accepted, returned for revision, or rejected. PubPeer comments will be made by the journal.\n\n\nDisclosures\nReviewers are asked to make a recommendation (accept, revise, reject) and to justify their decision. Reviewers need to disclose whether they reviewed the preregistration, materials, data, and code. \n\n\nReviewer code of conduct\nReviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board's decisions.\n\n\nReview checklist\n[To be incorporated into OJS]\nPlease enter your decision and justification here.\nDecision:\n[radio-button: accept, revise, reject]\nJustification / Comments for the authors:\n[open-ended]\nReview coverage:\nPlease indicate what parts of the submitted research you reviewed.\n\nmanuscript\noriginal report\nsupplemental materials (if submitted)\npreregistration\nmaterials\ndata\ncode\npush-button replicability\n\nDisclosures:\n\nI recommend a statistical expert to give feedback on the analyses.\nMy comments adhere to the reviewer code of conduct in that they are constructive and targeted at improving the manuscript.\nI have been working together with the author / one of the authors.\nI have been working together with the editor handling this submission."
   }
 ]

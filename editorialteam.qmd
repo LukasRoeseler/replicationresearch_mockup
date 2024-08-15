@@ -1,0 +1,24 @@
+---
+title: "Editorial Team"
+---
+
+|            |                                     |
+|------------|-------------------------------------|
+| **Person** | **Role**                            |
+| LR (?)     | Journal Manager                     |
+| LR (?)     | Editor-in-Chief                     |
+| MüCOS SHK  | Editorial Assistant                 |
+|            | Editorial Board, Psychology         |
+|            | Editorial Board, Medicine           |
+|            | Editorial Board, Biology            |
+|            | Editorial Board, Political Sciences |
+|            | Editorial Board, Education Sciences |
+|            | Action Editor                       |
+|            | Advisory Board                      |
+| SHK MüCOS  | Reproducibility Manager             |
+|            | Reproducibility Team                |
+|            | Reproducibility Team                |
+
+# Editorial Members\' Conflict of Interest
+
+For the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor.

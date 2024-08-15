@@ -1,0 +1,92 @@
+---
+title: "Submissions"
+---
+
+*Replication Research* is a publication platform for replications and replications from various disciplines. Articles need to disclose what original study and hypothesis/claim they replicated or reproduced. For an up-to-date overview of the disciplines from which we accept submissions, please see the editorial board. Generally, we can provide adequate quality assurance and peer-review for cognitive, behavioral, and social science studies (psychology, economics, sociology, education sciences, political sciences).
+
+Please note that the entire review process is open and reviews will be permanently linked with submitted manuscripts via their DOIs and Pubpeer.com regardless whether the article is accepted or rejected. This is so that quality assurance is transparent, and so that work provided by reviewers for Replication Research is credited and not discarded.
+
+**\>\> Submission Portal \[LINK to OJS\]**
+
+# **Submission Preparation Checklist**
+
+\[das hier wird dann ins OJS eingearbeitet und orientiert sich an den Author Guidelines\]
+
+-   Pre-print uploaded to repository and assigned a DOI
+
+-   Preregistration link accessible and included in manuscript
+
+-   Preregistration deviations disclosed and discussed
+
+-   Open Data, Materials, and Code accessible and linked in the manuscript
+
+-   Instructions for push-button-replications provided and linked in the manuscript
+
+# **Author Guidelines**
+
+-   **Pre-Submission checks\
+    **Authors need to conduct automatized checks before submission. These include checks of reported test statistics and p-values via statcheck.io, checks for non-cited replication studies via FReD Annotator, and checks for cited retracted articles via Papercheck (Scienceverse).
+
+-   **Pre-Prints\
+    **Before submission, articles must be posted to a pre-print server that assigns the article a DOI (e.g., arXiv, OSF preprints, Zenodo).
+
+-   **Preregistration\
+    **Studies must be preregistered. Exceptions need to be justified and clearly communicated as exploratory studies. The link to the preregistration must be included in the manuscript and accessible during peer review. The authors must disclose whether the analysis plan was included in the preregistration and whether the analysis script was preregistered. All deviations from the preregistration must be discussed openly with respect to (1) a description of the deviation, (2) a justification for it, and (3) a note on how the deviation does or might affect the results.
+
+-   **Open Data, Materials, and Code\
+    **Data, materials, and code must be posted to a trusted repository (e.g., osf.io, researchbox.org, zenodo.org). Links to the repository must be included in the manuscript. Upon acceptance, the authors must create a frozen version of the repository and update all links (e.g., via OSF Registrations). Exceptions must be identified and justified at article submission (e.g., ethical reasons).
+
+-   **Reproducibility\
+    **Results need to be push-button-replicable. That means, the authors need to provide simple instructions on how to reproduce all results reported in the manuscript. To facilitate reproducibility checks, we encourage authors to use free open source software. A link to the instructions needs to be included in the manuscript.
+
+-   **PubPeer commenting\
+    **Regardless of the decision (accept, revise, reject), reviews and responses will be posted to PubPeer (pubpeer.com) after each stage.
+
+-   **Collaborative Copy-Editing\
+    **Replication Research has no author processing charges. To be able to maintain the journal, authors are expected to engage in copy-editing. Consequently, this phase will take as long as a peer-review round.
+
+# **Article Types**
+
+All articles submitted to Replication Research need to investigate a research question that has been previously investigated in a published study. These can be computational reproductions using the same data and code, robustness checks using the same data but different procedures, close replications using new data and the same method, or conceptual replications using new data and a different method. Replication closeness needs to be described in detail.
+
+## **Replications (different data)**
+
+Replication studies can be internal (i.e., by the same group of researchers), close, or conceptual (for a typology see Hüffmeier et al., REF). Authors can use their own format or a standardized template provided by Replication Research. This Standardized Replication Template (StaRT) is available online (<https://osf.io/3jgxd>).
+
+Upon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet).
+
+## **Reproductions (same data)**
+
+I4R
+
+Same authors?
+
+## **Multi-study articles**
+
+For multi-study articles, a mix of replications and reproductions is possible. If possible, authors should conduct a mini meta-analysis. Authors need to disclose for each study whether it is a replication or reproduction.
+
+## **Student Reports**
+
+Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be listed in the manuscript. Review for student reports is less strict and aimed to be faster (e.g., low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans). Reviews are still open and articles need to adhere to submission guidelines. Please note that students can also submit their articles as non-student reports.
+
+## **Registered Reports**
+
+\[see OSF stuff!\]
+
+## **Badges**
+
+For articles meeting the requirements listed in the Author Guidelines, we assign the following badges:
+
+\[hier Bildchen einfügen; können wir die von Meta Psych nehmen?\]
+
+● 	Preregistered
+
+● 	Preregistered with analysis plan
+
+● 	Open Materials/Data/Code
+
+● 	Student Report
+
+# **Contributions and References**
+
+These guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (<https://open.lnu.se/index.php/metapsychology/about/submissions>). 

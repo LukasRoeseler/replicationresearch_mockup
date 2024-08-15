@@ -1,0 +1,10 @@
+---
+title: "Replication Collection"
+---
+
+This is an automatic collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeMCwdtP0TPgL55stniuyyTxnNwyC34mO4VUuLcQwYrLI89sQ/viewform) and send an e-mail to lukas.roeseler\[at\]uni-muenster.de.
+
+|            |             |                 |                    |
+|------------|-------------|-----------------|--------------------|
+| Discipline | Description | Original Report | Replication Report |
+| ...        | ...         | ...             | ...                |

@@ -1,0 +1,7 @@
+---
+title: "Issues"
+---
+
+::: callout-important
+## Submissions are not open yet. We plan to launch the journal in late 2025.
+:::

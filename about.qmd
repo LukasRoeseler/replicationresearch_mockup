@@ -1,0 +1,61 @@
+---
+title: "About the Journal"
+---
+
+Replication Research is an interdisciplinary journal for replication research. This includes reproductions, where the same code and data are used to verify the originally reported results, close replications, where new data is collected with a method closely resembling an original study, or conceptual replications, where a previously tested hypothesis is re-tested using new methods and new data. We currently accept replications from the social, cognitive, and behavioral sciences as well as medicine.
+
+# Diamond Open Access without Processing Fees
+
+Replication Research is a researcher-led journal that is and will forever be free to read and to publish (Diamond Open Access, no Author Processing Charges).
+
+# Truly Open Peer Review
+
+All reviews are published after each round of peer-review, that is, regardless whether the manuscript is accepted or rejected for publication.
+
+# Reproducibility
+
+Before publication, reproducibility checks are conducted for the reported results. Articles are not published unless these reproducibility checks are successful.
+
+# Article Types
+
+Replication Research accepts submissions that include reproducibility checks, internal or direct replications, close replications, and conceptual replications as long as the target study is specified and published.
+
+Student first authors can but do not have to request \"student report\" status for their submissions, which results in less strict and faster peer review.
+
+For more information, see the Submission Guidelines. \[LINK\]
+
+# TOP Guidelines
+
+|                                        |           |                                                                                                                                          |
+|----------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------|
+| **Criterion**                          | **Level** | **Explanation**                                                                                                                          |
+| Data Citation                          | 3         | Article provides appropriate citation for data and materials used consistent with journal's author guidelines.                           |
+| Data Transparency                      | 3         | Data must be posted to a trusted repository. Exceptions must be identified at article submission.                                        |
+| Analysis Code Transparency             | 3         | Code must be posted to a trusted repository. Exceptions must be identified at article submission.                                        |
+| Materials Transparency                 | 3         | Materials must be posted to a trusted repository. Exceptions must be identified at article submission.                                   |
+| Design & Analysis Reporting Guidelines | 3         | Journal requires adherence to design transparency standards for review and publication.                                                  |
+| Study Preregistration                  | 3         | Article states whether preregistration of study exists, and, if so, allows journal access during peer review for verification.           |
+| Analysis Plan Preregistration          | 3         | Article states whether preregistration with analysis plan exists, and, if so, allows journal access during peer review for verification. |
+| Replication                            | 2         | Journal encourages submission of replication studies ~~and conducts results blind review.~~                                              |
+| Registered Reports & Publication Bias  | 3         | Journal accepts Registered Reports for novel studies.                                                                                    |
+| Open Science Badges                    | 2         | Journal assigns badges.                                                                                                                  |
+
+# Publication Process
+
+# Transparency Policy
+
+# Additional Information
+
+ISSN:
+
+Top Factor: 
+
+The Nordic List: 
+
+DOAJ:  
+
+Funding: Supported by 
+
+# Contributions and References
+
+These guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (<https://open.lnu.se/index.php/metapsychology/about/submissions>). 

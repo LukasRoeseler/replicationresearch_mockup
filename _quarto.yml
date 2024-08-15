@@ -3,24 +3,29 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "REPLICATION RESEARCH"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - about.qmd
+      - submissions.qmd
+      - review.qmd
+      - Issues.qmd
+      - collection.qmd
+      - editorialteam.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/LukasRoeseler/replicationresearch_mockup
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    right: "Built with [Quarto](https://quarto.org/) and the [jtr13 website template](https://jtr13.github.io/website-template/)"
+    left: "&copy; Copyright 2024, Lukas Röseler"
 
 format:
   html:
-    theme: cerulean
+    theme: journal
     toc: true
 
 editor: source
