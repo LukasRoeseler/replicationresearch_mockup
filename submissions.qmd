@@ -8,7 +8,7 @@ Please note that the entire review process is open and reviews will be permanent
 
 **\>\> Submission Portal \[LINK to OJS\]**
 
-# **Submission Preparation Checklist**
+## **Submission Preparation Checklist**
 
 \[das hier wird dann ins OJS eingearbeitet und orientiert sich an den Author Guidelines\]
 
@@ -22,7 +22,7 @@ Please note that the entire review process is open and reviews will be permanent
 
 -   Instructions for push-button-replications provided and linked in the manuscript
 
-# **Author Guidelines**
+## **Author Guidelines**
 
 -   **Pre-Submission checks\
     **Authors need to conduct automatized checks before submission. These include checks of reported test statistics and p-values via statcheck.io, checks for non-cited replication studies via FReD Annotator, and checks for cited retracted articles via Papercheck (Scienceverse).
@@ -45,31 +45,31 @@ Please note that the entire review process is open and reviews will be permanent
 -   **Collaborative Copy-Editing\
     **Replication Research has no author processing charges. To be able to maintain the journal, authors are expected to engage in copy-editing. Consequently, this phase will take as long as a peer-review round.
 
-# **Article Types**
+## **Article Types**
 
 All articles submitted to Replication Research need to investigate a research question that has been previously investigated in a published study. These can be computational reproductions using the same data and code, robustness checks using the same data but different procedures, close replications using new data and the same method, or conceptual replications using new data and a different method. Replication closeness needs to be described in detail.
 
-## **Replications (different data)**
+### **Replications (different data)**
 
 Replication studies can be internal (i.e., by the same group of researchers), close, or conceptual (for a typology see Hüffmeier et al., REF). Authors can use their own format or a standardized template provided by Replication Research. This Standardized Replication Template (StaRT) is available online (<https://osf.io/3jgxd>).
 
 Upon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet).
 
-## **Reproductions (same data)**
+### **Reproductions (same data)**
 
 I4R
 
 Same authors?
 
-## **Multi-study articles**
+### **Multi-study articles**
 
 For multi-study articles, a mix of replications and reproductions is possible. If possible, authors should conduct a mini meta-analysis. Authors need to disclose for each study whether it is a replication or reproduction.
 
-## **Student Reports**
+### **Student Reports**
 
 Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be listed in the manuscript. Review for student reports is less strict and aimed to be faster (e.g., low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans). Reviews are still open and articles need to adhere to submission guidelines. Please note that students can also submit their articles as non-student reports.
 
-## **Registered Reports**
+### **Registered Reports**
 
 \[see OSF stuff!\]
 
@@ -87,6 +87,6 @@ For articles meeting the requirements listed in the Author Guidelines, we assign
 
 ● Student Report
 
-# **Contributions and References**
+## **Contributions and References**
 
 These guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (<https://open.lnu.se/index.php/metapsychology/about/submissions>). 

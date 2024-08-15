@@ -15,13 +15,11 @@ website:
       - collection.qmd
       - editorialteam.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
         href: https://github.com/LukasRoeseler/replicationresearch_mockup
   page-footer:
     right: "Built with [Quarto](https://quarto.org/) and the [jtr13 website template](https://jtr13.github.io/website-template/)"
-    left: "&copy; Copyright 2024, Lukas Röseler"
+    left: "Shared under a CC-By Attribution 4.0 International license. Cite as Röseler, L. (2024, August 13). StaRT Reports. https://doi.org/10.17605/OSF.IO/BRXTD"
 
 format:
   html:

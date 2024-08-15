@@ -1,10 +1,12 @@
 ---
-title: "Replication Research"
+title: ""
 about:
   id: me
-  template: broadside
+  template: marquee
   image: img/logo.png
 ---
+
+------------------------------------------------------------------------
 
 ::: callout-warning
 This is a concept for the in development publication platform for replication research. Submissions are not open yet and all content is subject to change. If you have feedback, please get in touch with lukas.roeseler\[at\]uni-muenster.de.
@@ -21,6 +23,8 @@ Replications should be the foundation for cumulative and quantitative science bu
 ## Researcher-led
 
 *Replication Research* is hosted by the University of Münster and maintained by the Münster Center for Open Science (MüCOS) and the Framework for Open and Reproducible Research Training (FORRT).
+
+------------------------------------------------------------------------
 
 ![](img/mücos_logo.jpg){fig-align="center" width="450"}
 
