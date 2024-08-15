@@ -20,7 +20,7 @@ Before publication, reproducibility checks are conducted for the reported result
 
 Replication Research accepts submissions that include reproducibility checks, internal or direct replications, close replications, and conceptual replications as long as the target study is specified and published.
 
-Student first authors can but do not have to request \"student report\" status for their submissions, which results in less strict and faster peer review.
+Student first authors can but do not have to request "student report" status for their submissions, which results in less strict and faster peer review.
 
 For more information, see the Submission Guidelines. \[LINK\]
 

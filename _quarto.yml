@@ -25,8 +25,10 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: Simplex
     toc: true
+    grid:
+      margin-width: 0px
 
 editor: source
 

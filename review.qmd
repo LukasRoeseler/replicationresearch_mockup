@@ -12,7 +12,7 @@ Reviewers are asked to make a recommendation (accept, revise, reject) and to jus
 
 # Reviewer code of conduct
 
-Reviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board\'s decisions.
+Reviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board's decisions.
 
 # Review checklist
 
