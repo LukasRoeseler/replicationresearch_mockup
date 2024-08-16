@@ -8,3 +8,19 @@ This is an automatic collection of replication research based on the FORRT Repli
 |------------|-------------|-----------------|--------------------|
 | Discipline | Description | Original Report | Replication Report |
 | ...        | ...         | ...             | ...                |
+
+```{r}
+
+### open dataset
+devtools::install_github("forrtproject/FReD")
+library(FReD)
+ds <- load_fred_data()
+
+### create data
+ds <- ds[, c("discipline", "description", "ref_original", "ref_replication")]
+refs <- ds[-which(duplicated(ds$ref_replication)), ]
+names(refs) <- c("Discipline", "Description of Finding", "Original Report", "Replication Report")
+
+### print table
+print(refs)
+```
