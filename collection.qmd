@@ -1,26 +1,18 @@
 ---
 title: "Replication Collection"
+execute: 
+  echo : false
 ---
 
-This is an automatic collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeMCwdtP0TPgL55stniuyyTxnNwyC34mO4VUuLcQwYrLI89sQ/viewform) and send an e-mail to lukas.roeseler\[at\]uni-muenster.de.
-
-|            |             |                 |                    |
-|------------|-------------|-----------------|--------------------|
-| Discipline | Description | Original Report | Replication Report |
-| ...        | ...         | ...             | ...                |
+This is a collection of replication research based on the [FORRT Replication Database](https://forrt-replications.shinyapps.io/fred_explorer/). Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeMCwdtP0TPgL55stniuyyTxnNwyC34mO4VUuLcQwYrLI89sQ/viewform) and send an e-mail to lukas.roeseler\[at\]uni-muenster.de.
 
 ```{r}
+library(DT)
 
-### open dataset
-devtools::install_github("forrtproject/FReD")
-library(FReD)
-ds <- load_fred_data()
-
-### create data
-ds <- ds[, c("discipline", "description", "ref_original", "ref_replication")]
-refs <- ds[-which(duplicated(ds$ref_replication)), ]
-names(refs) <- c("Discipline", "Description of Finding", "Original Report", "Replication Report")
-
-### print table
-print(refs)
+ds <- read.csv("replication_collection.csv")
+ds <- ds[, -1]
+names(ds) <- c("Discipline", "Description of Finding", "Original Report", "Replication Report")
+datatable(ds)
 ```
+
+*Last update: 16/08/2024*
