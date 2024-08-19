@@ -6,11 +6,11 @@ title: "Submissions"
 
 Please note that the entire review process is open and reviews will be permanently linked with submitted manuscripts via their DOIs and Pubpeer.com regardless whether the article is accepted or rejected. This is so that quality assurance is transparent, and so that work provided by reviewers for Replication Research is credited and not discarded.
 
-**\>\> Submission Portal \[LINK to OJS\]**
+::: callout-tip
+**\>\> Submission Portal \[will be made available in fall 2025\]**
+:::
 
 ## **Submission Preparation Checklist**
-
-\[das hier wird dann ins OJS eingearbeitet und orientiert sich an den Author Guidelines\]
 
 -   Pre-print uploaded to repository and assigned a DOI
 
@@ -55,11 +55,9 @@ Replication studies can be internal (i.e., by the same group of researchers), cl
 
 Upon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet).
 
-### **Reproductions (same data)**
+### **Reproductions (same data)** 
 
-I4R
-
-Same authors?
+For reproductions (i.e., studies where no new data is collected), we recommend the use of the Institute4Replication's template available via this [OSF Project](#0). We do not accept reproductions with overlapping authorship.
 
 ### **Multi-study articles**
 
@@ -69,9 +67,9 @@ For multi-study articles, a mix of replications and reproductions is possible. I
 
 Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be listed in the manuscript. Review for student reports is less strict and aimed to be faster (e.g., low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans). Reviews are still open and articles need to adhere to submission guidelines. Please note that students can also submit their articles as non-student reports.
 
-### **Registered Reports**
+### **Registered Reports** 
 
-\[see OSF stuff!\]
+*Replication Research* accepts registered reports for studies where new data is collected. More information on registered repots is available in the [template guide provided by the OSF](#0).
 
 ## **Badges**
 

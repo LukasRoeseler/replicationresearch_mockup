@@ -4,6 +4,14 @@ project:
   
 website:
   title: "REPLICATION RESEARCH"
+  
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**WARNING** - This is a concept for the in development publication platform for replication research. Submissions are not open yet and all content is subject to change. If you have feedback, please get in touch with lukas.roeseler[at]uni-muenster.de."
+    type: primary
+    position: below-navbar
+  
   navbar:
     left:
       - href: index.qmd
@@ -25,6 +33,7 @@ format:
   html:
     theme: Simplex
     toc: true
+    page-layout: full
     grid:
       margin-width: 0px
 

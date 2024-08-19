@@ -27,7 +27,7 @@ For more information, see the Submission Guidelines. \[LINK\]
 ## TOP Guidelines
 
 |                                        |           |                                                                                                                                          |
-|----------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------|-------------|----------------------------------------------|
 | **Criterion**                          | **Level** | **Explanation**                                                                                                                          |
 | Data Citation                          | 3         | Article provides appropriate citation for data and materials used consistent with journal's author guidelines.                           |
 | Data Transparency                      | 3         | Data must be posted to a trusted repository. Exceptions must be identified at article submission.                                        |
@@ -43,10 +43,6 @@ For more information, see the Submission Guidelines. \[LINK\]
 ## Publication Process
 
 ![](img/publicationprocess.jpg)
-
-## Transparency Policy
-
-XXX
 
 ## Additional Information
 

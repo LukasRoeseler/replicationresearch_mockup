@@ -8,16 +8,16 @@ title: "Editorial Team"
 | LR (?)     | Journal Manager                     |
 | LR (?)     | Editor-in-Chief                     |
 | MüCOS SHK  | Editorial Assistant                 |
-|            | Editorial Board, Psychology         |
-|            | Editorial Board, Medicine           |
-|            | Editorial Board, Biology            |
-|            | Editorial Board, Political Sciences |
-|            | Editorial Board, Education Sciences |
-|            | Action Editor                       |
-|            | Advisory Board                      |
+| NAME       | Editorial Board, Psychology         |
+| NAME       | Editorial Board, Medicine           |
+| NAME       | Editorial Board, Biology            |
+| NAME       | Editorial Board, Political Sciences |
+| NAME       | Editorial Board, Education Sciences |
+| NAME       | Action Editor                       |
+| NAME       | Advisory Board                      |
 | SHK MüCOS  | Reproducibility Manager             |
-|            | Reproducibility Team                |
-|            | Reproducibility Team                |
+| NAME       | Reproducibility Team                |
+| NAME       | Reproducibility Team                |
 
 # Editorial Members' Conflict of Interest
 
