@@ -32,7 +32,7 @@
     "href": "submissions.html#badges",
     "title": "Submissions",
     "section": "Badges",
-    "text": "Badges\nFor articles meeting the requirements listed in the Author Guidelines, we assign the following badges:\n[hier Bildchen einfügen; können wir die von Meta Psych nehmen?]\n● Preregistered\n● Preregistered with analysis plan\n● Open Materials/Data/Code\n● Student Report"
+    "text": "Badges\nFor articles meeting the requirements listed in the Author Guidelines, we assign the following badges (images provided by OSF):"
   },
   {
     "objectID": "submissions.html#contributions-and-references",
@@ -123,7 +123,7 @@
     "href": "collection.html",
     "title": "Replication Collection",
     "section": "",
-    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\nWarning: Paket 'DT' wurde unter R Version 4.4.1 erstellt\n\n\n\n\n\n\nLast update: 16/08/2024"
+    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\nWarning: Paket 'DT' wurde unter R Version 4.4.1 erstellt\n\n\n\n\n\n\n\n\nLast update: 2024-08-19"
   },
   {
     "objectID": "index.html#free-to-read-free-to-publish",

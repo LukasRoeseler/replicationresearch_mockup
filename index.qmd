@@ -8,7 +8,6 @@ about:
 
 ------------------------------------------------------------------------
 
-
 ## Free to read, free to publish
 
 *Replication Research* is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions.
@@ -23,6 +22,4 @@ Replications should be the foundation for cumulative and quantitative science bu
 
 ------------------------------------------------------------------------
 
-![](img/mücos_logo.jpg){fig-align="center" width="450"}
-
-![](img/forrt_logo.png){fig-align="center" width="450"}
+![](img/mücos_logo.jpg){width="300"} ![](img/forrt_logo.png){width="300"}

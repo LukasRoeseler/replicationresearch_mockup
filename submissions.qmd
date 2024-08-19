@@ -55,7 +55,7 @@ Replication studies can be internal (i.e., by the same group of researchers), cl
 
 Upon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet).
 
-### **Reproductions (same data)** 
+### **Reproductions (same data)**
 
 For reproductions (i.e., studies where no new data is collected), we recommend the use of the Institute4Replication's template available via this [OSF Project](#0). We do not accept reproductions with overlapping authorship.
 
@@ -67,23 +67,15 @@ For multi-study articles, a mix of replications and reproductions is possible. I
 
 Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be listed in the manuscript. Review for student reports is less strict and aimed to be faster (e.g., low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans). Reviews are still open and articles need to adhere to submission guidelines. Please note that students can also submit their articles as non-student reports.
 
-### **Registered Reports** 
+### **Registered Reports**
 
 *Replication Research* accepts registered reports for studies where new data is collected. More information on registered repots is available in the [template guide provided by the OSF](#0).
 
 ## **Badges**
 
-For articles meeting the requirements listed in the Author Guidelines, we assign the following badges:
+For articles meeting the requirements listed in the Author Guidelines, we assign the following badges (images provided by [OSF](https://www.cos.io/initiatives/badges)):
 
-\[hier Bildchen einfügen; können wir die von Meta Psych nehmen?\]
-
-● Preregistered
-
-● Preregistered with analysis plan
-
-● Open Materials/Data/Code
-
-● Student Report
+![Preregistered](img/badge_preregistered.jpeg){fig-align="left" width="100"} ![Open Materials](img/badge_openmaterials.jpeg){fig-align="left" width="100"} ![Open Data](img/badge_opendata.jpeg){fig-align="left" width="100"}![Student Report](img/badge_studentreport.jpg){width="103"}
 
 ## **Contributions and References**
 
