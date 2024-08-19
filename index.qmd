@@ -8,9 +8,6 @@ about:
 
 ------------------------------------------------------------------------
 
-::: callout-warning
-This is a concept for the in development publication platform for replication research. Submissions are not open yet and all content is subject to change. If you have feedback, please get in touch with lukas.roeseler\[at\]uni-muenster.de.
-:::
 
 ## Free to read, free to publish
 
