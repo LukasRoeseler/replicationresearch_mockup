@@ -18,8 +18,16 @@ Replications should be the foundation for cumulative and quantitative science bu
 
 ## Researcher-led
 
-*Replication Research* is hosted by the University of Münster and maintained by the Münster Center for Open Science (MüCOS) and the Framework for Open and Reproducible Research Training (FORRT).
+*Replication Research* is hosted by the University of Münster and maintained by the [Münster Center for Open Science (MüCOS)](https://www.uni-muenster.de/MueCOS/en/index.html) and the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org).
 
 ------------------------------------------------------------------------
 
+## Hosts
+
 ![](img/mücos_logo.jpg){width="300"} ![](img/forrt_logo.png){width="300"}
+
+------------------------------------------------------------------------
+
+## Partners
+
+![](img/replicationwiki.png){width="117"} ![](img/i4r.png){width="231"}
