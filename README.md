@@ -1,6 +1,8 @@
 
 This is a concept for an in development replication journal.
 
+OSF Repository: https://osf.io/kupqt/
+
 License: CC-By Attribution 4.0 International
 
 Cite as: Röseler, L. (2024, August 13). StaRT Reports. https://doi.org/10.17605/OSF.IO/BRXTD
