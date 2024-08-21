@@ -36,6 +36,9 @@ Please note that the entire review process is open and reviews will be permanent
 -   **Open Data, Materials, and Code\
     **Data, materials, and code must be posted to a trusted repository (e.g., osf.io, researchbox.org, zenodo.org). Links to the repository must be included in the manuscript. Upon acceptance, the authors must create a frozen version of the repository and update all links (e.g., via OSF Registrations). Exceptions must be identified and justified at article submission (e.g., ethical reasons).
 
+-   **Transparency Statement**\
+    Authors must declare all potential conflicts of interest, if and how they are connected to the authors of the original work. Authors must declare use of AI (e.g., "The introduction has been written by ChatGTP 4.0").
+
 -   **Reproducibility\
     **Results need to be push-button-replicable. That means, the authors need to provide simple instructions on how to reproduce all results reported in the manuscript. To facilitate reproducibility checks, we encourage authors to use free open source software. A link to the instructions needs to be included in the manuscript.
 
