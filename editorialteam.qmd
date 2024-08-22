@@ -22,3 +22,13 @@ title: "Editorial Team"
 # Editorial Members' Conflict of Interest
 
 For the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor.
+
+::: callout-note
+# *Replication Research* Network
+
+In summer 2024, an international network of researchers has finalized a research proposal for the foundation of a publication platform for replication research. This journal concept is embedded into this. The proposal is openly available:
+
+Röseler, L. (2024). Research Proposal: Replication Journal (Topical Program). Retrieved from <https://osf.io/p4dzb>
+
+Please get in touch if you are interested in supporting this endeavour or if you would like to keep updated on it.
+:::

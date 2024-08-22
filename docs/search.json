@@ -18,7 +18,7 @@
     "href": "submissions.html#author-guidelines",
     "title": "Submissions",
     "section": "Author Guidelines",
-    "text": "Author Guidelines\n\nPre-Submission checks\nAuthors need to conduct automatized checks before submission. These include checks of reported test statistics and p-values via statcheck.io, checks for non-cited replication studies via FReD Annotator, and checks for cited retracted articles via Papercheck (Scienceverse).\nPre-Prints\nBefore submission, articles must be posted to a pre-print server that assigns the article a DOI (e.g., arXiv, OSF preprints, Zenodo).\nPreregistration\nStudies must be preregistered. Exceptions need to be justified and clearly communicated as exploratory studies. The link to the preregistration must be included in the manuscript and accessible during peer review. The authors must disclose whether the analysis plan was included in the preregistration and whether the analysis script was preregistered. All deviations from the preregistration must be discussed openly with respect to (1) a description of the deviation, (2) a justification for it, and (3) a note on how the deviation does or might affect the results.\nOpen Data, Materials, and Code\nData, materials, and code must be posted to a trusted repository (e.g., osf.io, researchbox.org, zenodo.org). Links to the repository must be included in the manuscript. Upon acceptance, the authors must create a frozen version of the repository and update all links (e.g., via OSF Registrations). Exceptions must be identified and justified at article submission (e.g., ethical reasons).\nReproducibility\nResults need to be push-button-replicable. That means, the authors need to provide simple instructions on how to reproduce all results reported in the manuscript. To facilitate reproducibility checks, we encourage authors to use free open source software. A link to the instructions needs to be included in the manuscript.\nPubPeer commenting\nRegardless of the decision (accept, revise, reject), reviews and responses will be posted to PubPeer (pubpeer.com) after each stage.\nCollaborative Copy-Editing\nReplication Research has no author processing charges. To be able to maintain the journal, authors are expected to engage in copy-editing. Consequently, this phase will take as long as a peer-review round."
+    "text": "Author Guidelines\n\nPre-Submission checks\nAuthors need to conduct automatized checks before submission. These include checks of reported test statistics and p-values via statcheck.io, checks for non-cited replication studies via FReD Annotator, and checks for cited retracted articles via Papercheck (Scienceverse).\nPre-Prints\nBefore submission, articles must be posted to a pre-print server that assigns the article a DOI (e.g., arXiv, OSF preprints, Zenodo).\nPreregistration\nStudies must be preregistered. Exceptions need to be justified and clearly communicated as exploratory studies. The link to the preregistration must be included in the manuscript and accessible during peer review. The authors must disclose whether the analysis plan was included in the preregistration and whether the analysis script was preregistered. All deviations from the preregistration must be discussed openly with respect to (1) a description of the deviation, (2) a justification for it, and (3) a note on how the deviation does or might affect the results.\nOpen Data, Materials, and Code\nData, materials, and code must be posted to a trusted repository (e.g., osf.io, researchbox.org, zenodo.org). Links to the repository must be included in the manuscript. Upon acceptance, the authors must create a frozen version of the repository and update all links (e.g., via OSF Registrations). Exceptions must be identified and justified at article submission (e.g., ethical reasons).\nTransparency Statement\nAuthors must declare all potential conflicts of interest, include the 21 word solution or a derivative thereof, and explain if and how they are connected to the authors of the original work. Authors must declare use of AI (e.g., “The introduction has been written by ChatGTP 4.0”).\nReproducibility\nResults need to be push-button-replicable. That means, the authors need to provide simple instructions on how to reproduce all results reported in the manuscript. To facilitate reproducibility checks, we encourage authors to use free open source software. A link to the instructions needs to be included in the manuscript.\nPubPeer commenting\nRegardless of the decision (accept, revise, reject), reviews and responses will be posted to PubPeer (pubpeer.com) after each stage.\nCollaborative Copy-Editing\nReplication Research has no author processing charges. To be able to maintain the journal, authors are expected to engage in copy-editing. Consequently, this phase will take as long as a peer-review round."
   },
   {
     "objectID": "submissions.html#article-types",
@@ -53,14 +53,14 @@
     "href": "editorialteam.html",
     "title": "Editorial Team",
     "section": "",
-    "text": "Person\nRole\n\n\nLR (?)\nJournal Manager\n\n\nLR (?)\nEditor-in-Chief\n\n\nMüCOS SHK\nEditorial Assistant\n\n\nNAME\nEditorial Board, Psychology\n\n\nNAME\nEditorial Board, Medicine\n\n\nNAME\nEditorial Board, Biology\n\n\nNAME\nEditorial Board, Political Sciences\n\n\nNAME\nEditorial Board, Education Sciences\n\n\nNAME\nAction Editor\n\n\nNAME\nAdvisory Board\n\n\nSHK MüCOS\nReproducibility Manager\n\n\nNAME\nReproducibility Team\n\n\nNAME\nReproducibility Team\n\n\n\n\nEditorial Members’ Conflict of Interest\nFor the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor."
+    "text": "Person\nRole\n\n\nLR (?)\nJournal Manager\n\n\nLR (?)\nEditor-in-Chief\n\n\nMüCOS SHK\nEditorial Assistant\n\n\nNAME\nEditorial Board, Psychology\n\n\nNAME\nEditorial Board, Medicine\n\n\nNAME\nEditorial Board, Biology\n\n\nNAME\nEditorial Board, Political Sciences\n\n\nNAME\nEditorial Board, Education Sciences\n\n\nNAME\nAction Editor\n\n\nNAME\nAdvisory Board\n\n\nSHK MüCOS\nReproducibility Manager\n\n\nNAME\nReproducibility Team\n\n\nNAME\nReproducibility Team\n\n\n\n\nEditorial Members’ Conflict of Interest\nFor the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor.\n\n\n\n\n\n\nReplication Research Network\n\n\n\nIn summer 2024, an international network of researchers has finalized a research proposal for the foundation of a publication platform for replication research. This journal concept is embedded into this. The proposal is openly available:\nRöseler, L. (2024). Research Proposal: Replication Journal (Topical Program). Retrieved from https://osf.io/p4dzb\nPlease get in touch if you are interested in supporting this endeavour or if you would like to keep updated on it."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About the Journal",
     "section": "",
-    "text": "Replication Research is an interdisciplinary journal for replication research. This includes reproductions, where the same code and data are used to verify the originally reported results, close replications, where new data is collected with a method closely resembling an original study, or conceptual replications, where a previously tested hypothesis is re-tested using new methods and new data. We currently accept replications from the social, cognitive, and behavioral sciences as well as medicine."
+    "text": "Replication Research (R2) is an interdisciplinary journal for replication research. This includes reproductions, where the same code and data are used to verify the originally reported results, close replications, where new data is collected with a method closely resembling an original study, or conceptual replications, where a previously tested hypothesis is re-tested using new methods and new data. We currently accept replications from the social, cognitive, and behavioral sciences as well as medicine."
   },
   {
     "objectID": "about.html#diamond-open-access-without-processing-fees",
@@ -109,7 +109,7 @@
     "href": "about.html#additional-information",
     "title": "About the Journal",
     "section": "Additional Information",
-    "text": "Additional Information\nISSN:\nTop Factor: \nThe Nordic List: \nDOAJ:  \nFunding: Supported by"
+    "text": "Additional Information\nISSN: —\nTop Factor: 28\nThe Nordic List: — \nDOAJ: —\nFunding: Supported by the Münster Center for Open Science, University of Münster"
   },
   {
     "objectID": "about.html#contributions-and-references",
@@ -123,7 +123,7 @@
     "href": "collection.html",
     "title": "Replication Collection",
     "section": "",
-    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2024-08-21"
+    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2024-08-22"
   },
   {
     "objectID": "index.html#free-to-read-free-to-publish",
@@ -133,18 +133,18 @@
     "text": "Free to read, free to publish\nReplication Research is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions."
   },
   {
-    "objectID": "index.html#valuing-replication-research",
-    "href": "index.html#valuing-replication-research",
+    "objectID": "index.html#valueing-high-quality-replication-research",
+    "href": "index.html#valueing-high-quality-replication-research",
     "title": "REPLICATION RESEARCH",
-    "section": "Valuing replication research",
-    "text": "Valuing replication research\nReplications should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish high-quality replication research in an open and accessible way, we are here for you."
+    "section": "Valueing high-quality replication research",
+    "text": "Valueing high-quality replication research\nReplications should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish replication research with rigorous and transparent quality assurance in an open and accessible way, we are here for you."
   },
   {
     "objectID": "index.html#researcher-led",
     "href": "index.html#researcher-led",
     "title": "REPLICATION RESEARCH",
     "section": "Researcher-led",
-    "text": "Researcher-led\nReplication Research is hosted by the University of Münster and maintained by the Münster Center for Open Science (MüCOS) and the Framework for Open and Reproducible Research Training (FORRT).\n\n\n\n\n\n\nTip\n\n\n\n&gt;&gt; Submission Portal [will be made available in fall 2025]"
+    "text": "Researcher-led\nReplication Research is hosted by the University of Münster and maintained by the Münster Center for Open Science (MüCOS) and the Framework for Open and Reproducible Research Training (FORRT).\n\n\n\n\n\n\nNote\n\n\n\n&gt;&gt; The submission portal will be made available in fall 2025"
   },
   {
     "objectID": "index.html#hosts",
@@ -179,7 +179,7 @@
     "href": "review.html#reviewer-code-of-conduct",
     "title": "Reviewer Guidelines",
     "section": "Reviewer code of conduct",
-    "text": "Reviewer code of conduct\nReviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board’s decisions."
+    "text": "Reviewer code of conduct\nReviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board’s decisions.\nReviewers must declare all potential conflicts of interest and explain if and how they are connected to the authors of the original work. Reviewers must declare use of AI (e.g., “Points 2 and 3 are based on the suggestions of ChatGTP 4”)."
   },
   {
     "objectID": "review.html#review-checklist",
