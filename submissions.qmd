@@ -6,8 +6,8 @@ title: "Submissions"
 
 Please note that the entire review process is open and reviews will be permanently linked with submitted manuscripts via their DOIs and Pubpeer.com regardless whether the article is accepted or rejected. This is so that quality assurance is transparent, and so that work provided by reviewers for Replication Research is credited and not discarded.
 
-::: {.callout-tip icon="false"}
-**\>\> Submission Portal \[will be made available in fall 2025\]**
+::: {.callout-note icon="false"}
+**\>\> The submission portal will be made available in fall 2025**
 :::
 
 ## **Submission Preparation Checklist**

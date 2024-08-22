@@ -2,11 +2,11 @@
 title: "About the Journal"
 ---
 
-Replication Research is an interdisciplinary journal for replication research. This includes reproductions, where the same code and data are used to verify the originally reported results, close replications, where new data is collected with a method closely resembling an original study, or conceptual replications, where a previously tested hypothesis is re-tested using new methods and new data. We currently accept replications from the social, cognitive, and behavioral sciences as well as medicine.
+*Replication Research (R2)* is an interdisciplinary journal for replication research. This includes reproductions, where the same code and data are used to verify the originally reported results, close replications, where new data is collected with a method closely resembling an original study, or conceptual replications, where a previously tested hypothesis is re-tested using new methods and new data. We currently accept replications from the social, cognitive, and behavioral sciences as well as medicine.
 
 ## Diamond Open Access without Processing Fees
 
-Replication Research is a researcher-led journal that is and will forever be free to read and to publish (Diamond Open Access, no Author Processing Charges).
+*Replication Research* is a researcher-led journal that is and will forever be free to read and to publish (Diamond Open Access, no Author Processing Charges).
 
 ## Truly Open Peer Review
 
@@ -18,7 +18,7 @@ Before publication, reproducibility checks are conducted for the reported result
 
 ## Article Types
 
-Replication Research accepts submissions that include reproducibility checks, internal or direct replications, close replications, and conceptual replications as long as the target study is specified and published.
+*Replication Research* accepts submissions that include reproducibility checks, internal or direct replications, close replications, and conceptual replications as long as the target study is specified and published.
 
 Student first authors can but do not have to request "student report" status for their submissions, which results in less strict and faster peer review.
 
@@ -27,7 +27,7 @@ For more information, see the Submission Guidelines. \[LINK\]
 ## TOP Guidelines
 
 |                                        |           |                                                                                                                                          |
-|----------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------|-------------|----------------------------------------------|
 | **Criterion**                          | **Level** | **Explanation**                                                                                                                          |
 | Data Citation                          | 3         | Article provides appropriate citation for data and materials used consistent with journal's author guidelines.                           |
 | Data Transparency                      | 3         | Data must be posted to a trusted repository. Exceptions must be identified at article submission.                                        |
@@ -46,15 +46,15 @@ For more information, see the Submission Guidelines. \[LINK\]
 
 ## Additional Information
 
-ISSN:
+ISSN: ---
 
-Top Factor: 
+Top Factor: 28
 
-The Nordic List: 
+The Nordic List: --- 
 
-DOAJ:  
+DOAJ: ---
 
-Funding: Supported by 
+Funding: Supported by the Münster Center for Open Science, University of Münster
 
 ## Contributions and References
 

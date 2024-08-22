@@ -12,16 +12,16 @@ about:
 
 *Replication Research* is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions.
 
-## Valuing replication research
+## Valueing high-quality replication research
 
-Replications should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish high-quality replication research in an open and accessible way, we are here for you.
+Replications should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish replication research with rigorous and transparent quality assurance in an open and accessible way, we are here for you.
 
 ## Researcher-led
 
 *Replication Research* is hosted by the University of Münster and maintained by the [Münster Center for Open Science (MüCOS)](https://www.uni-muenster.de/MueCOS/en/index.html) and the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org).
 
-::: {.callout-tip icon="false"}
-**\>\> Submission Portal \[will be made available in fall 2025\]**
+::: {.callout-note icon="false"}
+**\>\> The submission portal will be made available in fall 2025**
 :::
 
 ------------------------------------------------------------------------
@@ -29,6 +29,8 @@ Replications should be the foundation for cumulative and quantitative science bu
 ## Hosts
 
 ![](img/mücos_logo.jpg){width="300"} ![](img/forrt_logo.png){width="300"}
+
+![](img/unimünster_logo.jpg){width="361"}
 
 ------------------------------------------------------------------------
 
