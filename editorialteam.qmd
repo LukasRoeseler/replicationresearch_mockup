@@ -2,22 +2,22 @@
 title: "Editorial Team"
 ---
 
-|            |                                     |
-|------------|-------------------------------------|
-| **Person** | **Role**                            |
-| LR (?)     | Journal Manager                     |
-| LR (?)     | Editor-in-Chief                     |
-| MüCOS SHK  | Editorial Assistant                 |
-| NAME       | Editorial Board, Psychology         |
-| NAME       | Editorial Board, Medicine           |
-| NAME       | Editorial Board, Biology            |
-| NAME       | Editorial Board, Political Sciences |
-| NAME       | Editorial Board, Education Sciences |
-| NAME       | Action Editor                       |
-| NAME       | Advisory Board                      |
-| SHK MüCOS  | Reproducibility Manager             |
-| NAME       | Reproducibility Team                |
-| NAME       | Reproducibility Team                |
+|                          |                                     |
+|--------------------------|-------------------------------------|
+| **Person**               | **Role**                            |
+| NAME                     | Journal Manager                     |
+| NAME                     | Editor-in-Chief                     |
+| MüCOS Research Assistant | Editorial Assistant                 |
+| NAME                     | Editorial Board, Psychology         |
+| NAME                     | Editorial Board, Medicine           |
+| NAME                     | Editorial Board, Biology            |
+| NAME                     | Editorial Board, Political Sciences |
+| NAME                     | Editorial Board, Education Sciences |
+| NAME                     | Action Editor                       |
+| NAME                     | Advisory Board                      |
+| MüCOS Research Assistant | Reproducibility Manager             |
+| NAME                     | Reproducibility Team                |
+| NAME                     | Reproducibility Team                |
 
 # Editorial Members' Conflict of Interest
 

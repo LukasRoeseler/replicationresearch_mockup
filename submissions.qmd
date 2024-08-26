@@ -54,7 +54,7 @@ All articles submitted to Replication Research need to investigate a research qu
 
 ### **Replications (different data)**
 
-Replication studies can be internal (i.e., by the same group of researchers), close, or conceptual (for a typology see [Hüffmeier et al., 2016](https://doi.org/10.1016/j.jesp.2015.09.009)). Authors can use their own format or a standardized template provided by Replication Research. This Standardized Replication Template (StaRT) is available online (<https://osf.io/3jgxd>).
+Replication studies can be internal (i.e., by the same group of researchers), close, or conceptual (for a typology see [Hüffmeier et al., 2016](https://doi.org/10.1016/j.jesp.2015.09.009)). Authors can use their own format or a standardized template provided by Replication Research. This [Standardized Replication Template (StaRT)](https://osf.io/3jgxd) is available online at <https://osf.io/3jgxd>.
 
 Upon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet).
 
