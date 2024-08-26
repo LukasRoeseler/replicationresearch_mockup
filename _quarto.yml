@@ -13,6 +13,7 @@ website:
     position: below-navbar
   
   navbar:
+    logo: img/logo2.png
     left:
       - href: index.qmd
         text: Home

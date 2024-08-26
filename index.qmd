@@ -3,8 +3,9 @@ title: ""
 about:
   id: me
   template: marquee
-  image: img/logo.png
 ---
+
+![](img/logo2.png)
 
 ------------------------------------------------------------------------
 
