@@ -78,7 +78,7 @@ Articles whose first authors are enrolled at a university at the time of submiss
 
 For articles meeting the requirements listed in the Author Guidelines, we assign the following badges (images provided by [OSF](https://www.cos.io/initiatives/badges)):
 
-![Preregistered](img/badge_preregistered.jpeg){fig-align="left" width="100"} ![Open Materials](img/badge_openmaterials.jpeg){fig-align="left" width="100"} ![Open Data](img/badge_opendata.jpeg){fig-align="left" width="100"}![Student Report](img/badge_studentreport.jpg){width="103"}
+![Preregistered](img/badge_preregistered.jpeg){fig-align="left" width="100"} ![Open Materials](img/badge_openmaterials.jpeg){fig-align="left" width="100"} ![Open Data](img/badge_opendata.jpeg){fig-align="left" width="100"}![Student Report](img/badge_studentreport.jpg){width="100"}
 
 ## **Contributions and References**
 
