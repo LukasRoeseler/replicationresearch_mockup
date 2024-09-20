@@ -14,31 +14,58 @@ All reviews are published after each round of peer-review, that is, regardless w
 
 ## Reproducibility
 
-Before publication, reproducibility checks are conducted for the reported results. Articles are not published unless these reproducibility checks are successful.
+Before publication, reproducibility checks are conducted for the reported results. Articles are not published unless these reproducibility checks are successful. This process is overseen by the reproducibility manager
 
 ## Article Types
 
-*Replication Research* accepts submissions that include reproducibility checks, internal or direct replications, close replications, and conceptual replications as long as the target study is specified and published.
+*Replication Research* accepts submissions that include reproducibility checks (including multiverse analyses and many analyst studies), internal or direct replications, close replications, and conceptual replications as long as the target study is specified and published.
 
-Student first authors can but do not have to request "student report" status for their submissions, which results in less strict and faster peer review.
+Student first authors can but do not have to request "student report" status for their submissions. For these submissions, soft review deadlines are shorter (2 weeks instead of 4 weeks) and only a response from one reviewer is required. However, adherence to TOP guidelines (see below) and reproducibility check are still required.
 
-For more information, see the Submission Guidelines. \[LINK\]
+For more information, see the [Submission Guidelines](https://lukasroeseler.github.io/replicationresearch_mockup/submissions.html).
 
 ## TOP Guidelines
 
-|                                        |           |                                                                                                                                          |
-|----------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------|
-| **Criterion**                          | **Level** | **Explanation**                                                                                                                          |
-| Data Citation                          | 3         | Article provides appropriate citation for data and materials used consistent with journal's author guidelines.                           |
-| Data Transparency                      | 3         | Data must be posted to a trusted repository. Exceptions must be identified at article submission.                                        |
-| Analysis Code Transparency             | 3         | Code must be posted to a trusted repository. Exceptions must be identified at article submission.                                        |
-| Materials Transparency                 | 3         | Materials must be posted to a trusted repository. Exceptions must be identified at article submission.                                   |
-| Design & Analysis Reporting Guidelines | 3         | Journal requires adherence to design transparency standards for review and publication.                                                  |
-| Study Preregistration                  | 3         | Article states whether preregistration of study exists, and, if so, allows journal access during peer review for verification.           |
-| Analysis Plan Preregistration          | 3         | Article states whether preregistration with analysis plan exists, and, if so, allows journal access during peer review for verification. |
-| Replication                            | 2         | Journal encourages submission of replication studies ~~and conducts results blind review.~~                                              |
-| Registered Reports & Publication Bias  | 3         | Journal accepts Registered Reports for novel studies.                                                                                    |
-| Open Science Badges                    | 2         | Journal assigns badges.                                                                                                                  |
+The following table stems from the [Center for Open Science](https://www.cos.io/blog/new-preprint-introduces-major-update-to-the-top-guidelines). Replication Research requires level 3 adherence to Transparency and Openness Promotion (TOP) guidelines. Adherence to *TOP **Research Practices*** is checked by reviewers in a structured form that they are required to submit alongside their review. ***Verification Practices*** are organized by the journal, that is the reproducibility manager. *Replication Research* accepts all types of **Verification Studies**.
+
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Criterion**          | **Level** | **Explanation**                                                                                                                                                        |
++========================+===========+========================================================================================================================================================================+
+| Study Registration     | 3         | A party independent from the authors certified that the study was registered at an appropriate time, and the registration was complete per disciplinary best-practice. |
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Study \                | 3         | A party independent from the authors certified that the study protocol was shared and complete per disciplinary best-practice.                                         |
+| Protocol               |           |                                                                                                                                                                        |
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Analysis \             | 3         | A party independent from the authors certified that the analysis plan was shared and complete per disciplinary best-practice.                                          |
+| Plan                   |           |                                                                                                                                                                        |
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Materials Transparency | 3         | A party independent from the authors certified that materials were deposited and documented per disciplinary best-practice.                                            |
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Data \                 | 3         | A party independent from the authors certified that data were deposited with metadata per disciplinary best-practice.                                                  |
+| Transparency           |           |                                                                                                                                                                        |
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Analytic Code \        | 3         | A party independent from the authors certified that analytic code was deposited and documented per disciplinary best-practice.                                         |
+| Transparency           |           |                                                                                                                                                                        |
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reporting Transparency | 3         | A party independent from the authors certified that the authors adhered to the cited reporting guideline.                                                              |
++------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+| Verification Practice         | Definition                                                                                                                                                                                          |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comprehensive Reporting       | A party independent from the authors verified that the study registration, protocol, and analysis plan match the final report--and the final report acknowledges any deviations from these outputs. |
+| Computational Reproducibility | A party independent from the authors verified that reported results reproduce using shared data and code.                                                                                           |
+
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Verification Study Type | Definition                                                                                                                                                                  |
++=========================+=============================================================================================================================================================================+
+| Replication             | A study that aims to provide diagnostic evidence about claims from a prior study by repeating the original study procedures in a new sample.                                |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Registered Report       | A registered study in which a study protocol and analysis plan are peer reviewed, and the study is pre-accepted by a publication outlet, before the research is undertaken. |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Multiverse              | A study that tests the research question of interest across multiple datasets arising from different, reasonable choices for processing and analyzing the same data.        |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Many Analyst            | A study in which independent analysis teams conduct plausible alternative analyses of a research question on the same dataset.                                              |
++-------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Publication Process
 

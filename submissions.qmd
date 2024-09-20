@@ -62,13 +62,17 @@ Upon acceptance, we expect authors to enter their replication study in to the FO
 
 For reproductions (i.e., studies where no new data is collected), we recommend the use of the Institute4Replication's template available via this [OSF Project](#0). We do not accept reproductions with overlapping authorship.
 
+### Multiverse Analyses and Many Analyst Studies
+
+There are many paths from raw data to results. Approaches that aim to wander most or all of them are called *multiverse analyses*, approaches to have many people choose their preferred path are called *Multi Analys Studies*. Both contain information about the robustness or generalizability and are thus an integral part of *repetitive research*.
+
 ### **Multi-study articles**
 
-For multi-study articles, a mix of replications and reproductions is possible. If possible, authors should conduct a mini meta-analysis. Authors need to disclose for each study whether it is a replication or reproduction.
+For multi-study articles, a mix of replications and reproductions is possible. If possible, authors should conduct a mini meta-analysis. Authors need to disclose for each study whether it is a replication or reproduction. A mix of original studies and replication is not possible.
 
 ### **Student Reports**
 
-Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be listed in the manuscript. Review for student reports is less strict and aimed to be faster (e.g., low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans). Reviews are still open and articles need to adhere to submission guidelines. Please note that students can also submit their articles as non-student reports.
+Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be mentioned in the manuscript. Review for student reports is aimed to be faster (two weeks deadline for one review instead of four weeks for two independent reviews). Quality standards are as high as non-student reports with the exception that low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans that are not clear from original reports. Reviews are still open and articles need to adhere to submission guidelines and TOP guidelines. Please note that students can also submit their articles as non-student reports.
 
 ### **Registered Reports**
 
