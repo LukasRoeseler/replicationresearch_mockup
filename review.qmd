@@ -61,3 +61,5 @@ Please indicate what parts of the submitted research you reviewed.
 -   I have been working together with the author / one of the authors.
 
 -   I have been working together with the editor handling this submission.
+
+-   In cases where I have suggested the citation of studies that I co-authored, I have disclosed that I am a co-author and justified why this paper and not another one should be cited.
