@@ -53,7 +53,14 @@
     "href": "editorialteam.html",
     "title": "Editorial Team",
     "section": "",
-    "text": "Person\nRole\n\n\nNAME\nJournal Manager\n\n\nNAME\nEditor-in-Chief\n\n\nMüCOS Research Assistant\nEditorial Assistant\n\n\nNAME\nEditorial Board, Psychology\n\n\nNAME\nEditorial Board, Medicine\n\n\nNAME\nEditorial Board, Biology\n\n\nNAME\nEditorial Board, Political Sciences\n\n\nNAME\nEditorial Board, Education Sciences\n\n\nNAME\nAction Editor\n\n\nNAME\nAdvisory Board\n\n\nMüCOS Research Assistant\nReproducibility Manager\n\n\nNAME\nReproducibility Team\n\n\nNAME\nReproducibility Team\n\n\n\n\nEditorial Members’ Conflict of Interest\nFor the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor.\n\n\n\n\n\n\nReplication Research Network\n\n\n\nIn summer 2024, an international network of researchers has finalized a research proposal for the foundation of a publication platform for replication research. This journal concept is embedded into this. The proposal is openly available:\nRöseler, L. (2024). Research Proposal: Replication Journal (Topical Program). Retrieved from https://osf.io/p4dzb\nPlease get in touch if you are interested in supporting this endeavour or if you would like to keep updated on it."
+    "text": "Person\nRole\n\n\nNAME\nJournal Manager\n\n\nNAME\nEditor-in-Chief\n\n\nMüCOS Research Assistant\nEditorial Assistant\n\n\nNAME\nEditorial Board, Psychology\n\n\nNAME\nEditorial Board, Medicine\n\n\nNAME\nEditorial Board, Biology\n\n\nNAME\nEditorial Board, Political Sciences\n\n\nNAME\nEditorial Board, Education Sciences\n\n\nNAME\nAction Editor\n\n\nNAME\nAdvisory Board\n\n\nMüCOS Research Assistant\nReproducibility Manager\n\n\nNAME\nReproducibility Team\n\n\nNAME\nReproducibility Team\n\n\n\n\nEditorial Members’ Conflict of Interest\nFor the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor.\n\n\n\n\n\n\nReplication Research Network\n\n\n\nIn summer 2024, an international network of researchers has finalized a research proposal for the foundation of a publication platform for replication research. This journal concept is embedded into this. The proposal is openly available:\nRöseler, L. (2024). Research Proposal: Replication Journal (Topical Program). Retrieved from https://osf.io/p4dzb\nPlease get in touch if you are interested in supporting this endeavour or if you would like to keep updated on it. The current timeline is detailed in the figure below and is subject to change.\n\n\n\nTimeline for the formation of the journal ‘Replication Research’"
+  },
+  {
+    "objectID": "collection.html",
+    "href": "collection.html",
+    "title": "Replication Collection",
+    "section": "",
+    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2024-11-06"
   },
   {
     "objectID": "about.html",
@@ -119,13 +126,6 @@
     "text": "Contributions and References\nThese guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (https://open.lnu.se/index.php/metapsychology/about/submissions)."
   },
   {
-    "objectID": "collection.html",
-    "href": "collection.html",
-    "title": "Replication Collection",
-    "section": "",
-    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2024-09-26"
-  },
-  {
     "objectID": "index.html#free-to-read-free-to-publish",
     "href": "index.html#free-to-read-free-to-publish",
     "title": "REPLICATION RESEARCH",
@@ -152,13 +152,6 @@
     "title": "REPLICATION RESEARCH",
     "section": "Hosts",
     "text": "Hosts"
-  },
-  {
-    "objectID": "index.html#partners",
-    "href": "index.html#partners",
-    "title": "REPLICATION RESEARCH",
-    "section": "Partners",
-    "text": "Partners"
   },
   {
     "objectID": "review.html#transparency",

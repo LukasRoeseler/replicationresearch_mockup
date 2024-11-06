@@ -1,0 +1,74 @@
+---
+title: "R2 cover sheet template"
+author: "Lukas Röseler"
+format: pdf
+editor: visual
+---
+
+-   Journal data
+
+    -   Logos
+
+        -   R2
+
+        -   FORRT
+
+        -   MüCOS
+
+    -   Title
+
+    -   Year
+
+    -   Volume
+
+    -   DOI
+
+    -   Article type
+
+    -   Published under the CC-BY4.0 license
+
+-   Title
+
+-   DOI
+
+-   Transparency table
+
+    -   Preregistration
+
+    -   Preregistered analysis plan
+
+    -   Open materials
+
+    -   Open data
+
+    -   Reproducible analysis
+
+    -   Review report
+
+-   Badges
+
+    -   Prereg +
+
+    -   Code/Materials
+
+    -   Data
+
+    -   Student Report
+
+-   Contributor table
+
+    -   Name
+
+    -   ORCID
+
+-   Reviewer table
+
+    -   Editor
+
+    -   Reviewer 1
+
+    -   Reviewer 2
+
+    -   Reproducer
+
+-   Citation

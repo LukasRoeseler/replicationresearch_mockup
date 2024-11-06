@@ -10,10 +10,10 @@ This is a collection of replication research based on the [FORRT Replication Dat
 #| warning: false
 library(DT)
 
-ds <- read.csv("replication_collection.csv")
+ds <- read.csv("replication_collection.csv", fileEncoding = "UTF-8")
 ds <- ds[, -1]
-names(ds) <- c("Discipline", "Description of Finding", "Original Report", "Replication Report")
-datatable(ds)
+# names(ds) <- c("Discipline", "Description of Finding", "Original Report", "Replication Report")
+DT::datatable(ds)
 ```
 
 ```{r}

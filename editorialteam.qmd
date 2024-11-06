@@ -30,5 +30,7 @@ In summer 2024, an international network of researchers has finalized a research
 
 Röseler, L. (2024). Research Proposal: Replication Journal (Topical Program). Retrieved from <https://osf.io/p4dzb>
 
-Please get in touch if you are interested in supporting this endeavour or if you would like to keep updated on it.
+Please get in touch if you are interested in supporting this endeavour or if you would like to keep updated on it. The current timeline is detailed in the figure below and is subject to change.
+
+![Timeline for the formation of the journal 'Replication Research'](img/timeline.jpg)
 :::

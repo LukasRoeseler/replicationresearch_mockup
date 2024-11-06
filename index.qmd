@@ -34,7 +34,3 @@ Replications should be the foundation for cumulative and quantitative science bu
 ![](img/unimünster_logo.jpg){width="361"}
 
 ------------------------------------------------------------------------
-
-## Partners
-
-![](img/replicationwiki.png){width="117"} ![](img/i4r.png){width="231"}

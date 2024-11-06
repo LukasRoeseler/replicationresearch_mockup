@@ -14,4 +14,4 @@ refs <- ds[-which(duplicated(ds$ref_replication)), ]
 names(refs) <- c("Discipline", "Description of Finding", "Original Report", "Replication Report")
 
 ### print table
-write.csv(refs, file = "replication_collection.csv")
+write.csv(refs, file = "replication_collection.csv", fileEncoding = "UTF-8")
