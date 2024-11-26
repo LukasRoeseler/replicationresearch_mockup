@@ -21,7 +21,7 @@ title: "Editorial Team"
 
 # Editorial Members' Conflict of Interest
 
-For the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor.
+For the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor. If an editor is a co-author in a submitted manuscript, they must include a COI statement and a different editor must handle the submission.
 
 ::: callout-note
 # *Replication Research* Network

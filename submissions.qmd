@@ -2,15 +2,13 @@
 title: "Submissions"
 ---
 
-*Replication Research* is a publication platform for replications and replications from various disciplines. Articles need to disclose what original study and hypothesis/claim they replicated or reproduced. For an up-to-date overview of the disciplines from which we accept submissions, please see the editorial board. Generally, we can provide adequate quality assurance and peer-review for cognitive, behavioral, and social science studies (psychology, economics, sociology, education sciences, political sciences).
-
-Please note that the entire review process is open and reviews will be permanently linked with submitted manuscripts via their DOIs and Pubpeer.com regardless whether the article is accepted or rejected. This is so that quality assurance is transparent, and so that work provided by reviewers for Replication Research is credited and not discarded.
-
 ::: {.callout-note icon="false"}
 **\>\> The submission portal will be made available in fall 2025**
 :::
 
 ## **Submission Preparation Checklist**
+
+As part of the submission process, authors are required to check off their submission's compliance with all of the following items, and submissions may be returned to authors that do not adhere to these guidelines.
 
 -   Pre-print uploaded to repository and assigned a DOI
 
@@ -20,9 +18,13 @@ Please note that the entire review process is open and reviews will be permanent
 
 -   Open Data, Materials, and Code accessible and linked in the manuscript
 
--   Instructions for push-button-replications provided and linked in the manuscript
+-   Instructions for reproducibility checks provided and linked in the manuscript
 
 ## **Author Guidelines**
+
+*Replication Research* is a publication platform for replications and reproductions from various disciplines. Articles need to disclose what original study and hypothesis/claim they replicated or reproduced. For an up-to-date overview of the disciplines from which we accept submissions, please see the editorial board. Generally, we can provide adequate quality assurance and peer-review for cognitive, behavioral, and social science studies (psychology, economics, sociology, education sciences, political sciences, management, medicine, life sciences).
+
+Please note that the entire review process is open and reviews will be permanently linked with submitted manuscripts via their DOIs and Pubpeer.com regardless whether the article is accepted or rejected. This is so that quality assurance is transparent, and so that work provided by reviewers for Replication Research is credited and not discarded.
 
 -   **Pre-Submission checks\
     **Authors need to conduct automatized checks before submission. These include checks of reported test statistics and p-values via statcheck.io, checks for non-cited replication studies via FReD Annotator, and checks for cited retracted articles via Papercheck (Scienceverse).
@@ -31,10 +33,10 @@ Please note that the entire review process is open and reviews will be permanent
     **Before submission, articles must be posted to a pre-print server that assigns the article a DOI (e.g., arXiv, OSF preprints, Zenodo).
 
 -   **Preregistration\
-    **Studies must be preregistered. Exceptions need to be justified and clearly communicated as exploratory studies. The link to the preregistration must be included in the manuscript and accessible during peer review. The authors must disclose whether the analysis plan was included in the preregistration and whether the analysis script was preregistered. All deviations from the preregistration must be discussed openly with respect to (1) a description of the deviation, (2) a justification for it, and (3) a note on how the deviation does or might affect the results.
+    **Studies must be preregistered. Exceptions need to be justified and clearly communicated as exploratory studies. The link to the preregistration must be included in the manuscript and accessible during peer review. Note that secondary data analyses can be preregistered, too. The authors must disclose whether the analysis plan was included in the preregistration and whether the analysis script was preregistered. All deviations from the preregistration must be discussed openly with respect to (1) a description of the deviation, (2) a justification for it, and (3) a note on how the deviation does or might affect the results.
 
 -   **Open Data, Materials, and Code\
-    **Data, materials, and code must be posted to a trusted repository (e.g., osf.io, researchbox.org, zenodo.org). Links to the repository must be included in the manuscript. Upon acceptance, the authors must create a frozen version of the repository and update all links (e.g., via OSF Registrations). Exceptions must be identified and justified at article submission (e.g., ethical reasons).
+    **Data, materials, and code must be posted to a trusted repository (e.g., osf.io, researchbox.org, zenodo.org). Links to the repository must be included in the manuscript. Upon acceptance, the authors must create a frozen version of the repository and update all links (e.g., via OSF Registrations). Exceptions to this rule must be identified and justified at article submission (e.g., data privacy, ethical reasons). In these cases, authors must add a justification in their report (Closed Data Statement).
 
 -   **Transparency Statement**\
     Authors must declare all potential conflicts of interest, include the [21 word solution](http://dx.doi.org/10.2139/ssrn.2160588) or a derivative thereof, and explain if and how they are connected to the authors of the original work. Authors must declare use of AI (e.g., "The introduction has been written by ChatGTP 4.0").
@@ -50,39 +52,43 @@ Please note that the entire review process is open and reviews will be permanent
 
 ## **Article Types**
 
-All articles submitted to Replication Research need to investigate a research question that has been previously investigated in a published study. These can be computational reproductions using the same data and code, robustness checks using the same data but different procedures, close replications using new data and the same method, or conceptual replications using new data and a different method. Replication closeness needs to be described in detail.
+Articles submitted to *Replication Research* need to investigate a research question that has been previously investigated in a published study or discuss replication methods that are relevant for at least two different research areas. Empirical reports can be computational reproductions using the same data and code, robustness checks using the same data but different procedures, close replications using new data and the same method, or conceptual replications using new data and a different method. Replication closeness needs to be described in detail.
 
 ### **Replications (different data)**
 
-Replication studies can be internal (i.e., by the same group of researchers), close, or conceptual (for a typology see [Hüffmeier et al., 2016](https://doi.org/10.1016/j.jesp.2015.09.009)). Authors can use their own format or a standardized template provided by Replication Research. This [Standardized Replication Template (StaRT)](https://osf.io/3jgxd) is available online at <https://osf.io/3jgxd>.
+Replication studies test a previously published claim or hypothesis using different data than the original study. They can be internal (i.e., by the same group of researchers), close, or conceptual (for a typology see [Hüffmeier et al., 2016](https://doi.org/10.1016/j.jesp.2015.09.009)). Authors can use their own format or a standardized template provided by Replication Research. This [Standardized Replication Template (StaRT)](https://osf.io/3jgxd) is available online at <https://osf.io/3jgxd>.
 
-Upon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet).
+Upon acceptance, we expect authors to enter their replication study in to the FORRT Replication Database (if it is not included yet). StaRT reports can be imported automatically and do not require author assistance.
 
 ### **Reproductions (same data)**
 
-For reproductions (i.e., studies where no new data is collected), we recommend the use of the Institute4Replication's template available via this [OSF Project](#0). We do not accept reproductions with overlapping authorship.
+For reproductions (i.e., studies where no new data is collected), we recommend the use of the Institute4Replication's template available via this [OSF Project](#0). We do not accept reproductions with overlapping authorship. Reproductions should expand the original analyses in some way (e.g., generalizability or robustness checks). Simply rerunning code is not sufficient.
 
 ### Multiverse Analyses and Many Analyst Studies
 
-There are many paths from raw data to results. Approaches that aim to wander most or all of them are called *multiverse analyses*, approaches to have many people choose their preferred path are called *Multi Analys Studies*. Both contain information about the robustness or generalizability and are thus an integral part of *repetitive research*.
+There are many paths from raw data to results. Approaches that aim to wander most or all of them and compare how robust a finding is to analytic decisions are called *multiverse analyses*, approaches that involve many people choose their preferred path of data analysis independently and compare them are called *Many Analyst Studies*. Both contain information about the robustness or generalizability and are thus an integral part of *repetitive research*.
 
 ### **Multi-study articles**
 
 For multi-study articles, a mix of replications and reproductions is possible. If possible, authors should conduct a mini meta-analysis. Authors need to disclose for each study whether it is a replication or reproduction. A mix of original studies and replication is not possible.
 
-### **Student Reports**
+### **Replication Methods** 
 
-Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be mentioned in the manuscript. Review for student reports is aimed to be faster (two weeks deadline for one review instead of four weeks for two independent reviews). Quality standards are as high as non-student reports with the exception that low-powered replications may be accepted if they discuss the limitations and provide useful new information such as reproduced materials or analysis plans that are not clear from original reports. Reviews are still open and articles need to adhere to submission guidelines and TOP guidelines. Please note that students can also submit their articles as non-student reports.
-
-### **Registered Reports**
-
-*Replication Research* accepts registered reports for studies where new data is collected. More information on registered repots is available in the [template guide provided by the OSF](#0).
+Theoretical contributions to methods of all types of replication reports can be submitted if they are relevant for multiple research areas.
 
 ## **Badges**
 
 For articles meeting the requirements listed in the Author Guidelines, we assign the following badges (images provided by [OSF](https://www.cos.io/initiatives/badges)):
 
-![Preregistered](img/badge_preregistered.jpeg){fig-align="left" width="100"} ![Open Materials](img/badge_openmaterials.jpeg){fig-align="left" width="100"} ![Open Data](img/badge_opendata.jpeg){fig-align="left" width="100"}![Student Report](img/badge_studentreport.jpg){width="100"}
+![Preregistered](img/badge_preregistered.jpeg){alt="Preregistered" fig-align="left" width="100"} ![Open Materials](img/badge_openmaterials.jpeg){alt="Open Materials" fig-align="left" width="100"} ![Open Data](img/badge_opendata.jpeg){alt="Open Data" fig-align="left" width="100"}![Student Report](img/badge_studentreport.jpg){alt="Student Report" width="100"}
+
+### **Student Reports**
+
+Articles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be mentioned in the manuscript. Review for student reports is aimed to be faster (two weeks deadline for one review instead of four weeks for two independent reviews). Quality standards are as high as non-student reports. Reviews are still open and articles need to adhere to submission guidelines and TOP guidelines. Please note that students can also submit their articles as non-student reports.
+
+### **Registered Reports**
+
+*Replication Research* accepts registered reports for studies where new data is collected. More information on registered repots is available in the [template guide provided by the OSF](#0).
 
 ## **Contributions and References**
 

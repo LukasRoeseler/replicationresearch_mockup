@@ -6,7 +6,7 @@ title: "Reviewer Guidelines"
 
 ## Transparency
 
-To make quality assurance as transparent as possible, reviews need to be signed by the reviewers and they will be published after each round of peer-review. They will be permanently linked with the submitted pre-print through a comment on PubPeer. This is regardless of whether the article is accepted, returned for revision, or rejected. PubPeer comments will be made by the journal.
+To make quality assurance as transparent as possible, reviewers will be publicly acknowledged by name. Review reports will be published after each round of peer-review. They will be permanently linked with the submitted pre-print through a comment on PubPeer. This is regardless of whether the article is accepted, returned for revision, or rejected. PubPeer comments will be made by the journal.
 
 ## Disclosures
 
@@ -14,7 +14,7 @@ Reviewers are asked to make a recommendation (accept, revise, reject) and to jus
 
 ## Reviewer code of conduct
 
-Reviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board's decisions.
+Reviewers are expected to provide constructive feedback. Personal attacks, coercion to cite their research, or vague criticism may lead to reviewers being blacklisted to review articles for Replication Research. Reviewers must not base their decision on the study outcome, that is, acceptance/rejection due to a successful or failed replication is not considered in the editorial board's decisions.
 
 Reviewers must declare all potential conflicts of interest and explain if and how they are connected to the authors of the original work. Reviewers must declare use of AI (e.g., "Points 2 and 3 are based on the suggestions of ChatGTP 4").
 
@@ -61,5 +61,7 @@ Please indicate what parts of the submitted research you reviewed.
 -   I have been working together with the author / one of the authors.
 
 -   I have been working together with the editor handling this submission.
+
+-   I am an editor for *Replication Research*.
 
 -   In cases where I have suggested the citation of studies that I co-authored, I have disclosed that I am a co-author and justified why this paper and not another one should be cited.

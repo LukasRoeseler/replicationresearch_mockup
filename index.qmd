@@ -5,17 +5,17 @@ about:
   template: marquee
 ---
 
-![](img/logo3.jpg){width="500"}
-
 ------------------------------------------------------------------------
 
 ## Free to read, free to publish
 
 *Replication Research* is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions.
 
-## Valueing high-quality replication research
+## Valueing high-quality replication research and interdisciplinary discussions
 
-Replications should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish replication research with rigorous and transparent quality assurance in an open and accessible way, we are here for you.
+Replications, that is the repeated testing of previously published claims, should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish replication research such as reproductions (same data) or replications (different data) with rigorous and transparent quality assurance (open and persistent peer review, reproducibility check) in an open and accessible way, we are here for you.
+
+Due to replication research gaining momentum across fields such as economics, psychology, biostatistics, humanities, and medicine, new methods to conduct and assess replications are being developed. Currently, researchers work in parallel and thus do double work. *Replication Research* is a place where expertise from different fields comes together in form of theory papers to shape the gold standard for transdisciplinary replication research.
 
 ## Researcher-led
 
