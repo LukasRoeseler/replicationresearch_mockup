@@ -2,6 +2,8 @@
 title: "About the Journal"
 ---
 
+![](img/rr_blue.jpg){width="500"}
+
 *Replication Research* is an interdisciplinary journal for replication research. This includes reproductions, where the same code and data are used to verify the originally reported results, close replications, where new data is collected with a method closely resembling an original study, or conceptual replications, where a previously tested hypothesis is re-tested using new methods and new data. We currently accept replications from the social, cognitive, and behavioral sciences as well as medicine.
 
 ## Diamond Open Access without Processing Fees
@@ -88,4 +90,4 @@ Funding: Supported by the Münster Center for Open Science, University of Münst
 
 ## Contributions and References
 
-These guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (<https://open.lnu.se/index.php/metapsychology/about/submissions>). 
+These guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and the Replication Research Consortium (list of members avaiable online, <https://osf.io/p4dzb>). They are loosely based on the submission guidelines from Meta Psychology (<https://open.lnu.se/index.php/metapsychology/about/submissions>). 

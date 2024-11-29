@@ -16,7 +16,7 @@ As part of the submission process, authors are required to check off their submi
 
 -   Preregistration deviations disclosed and discussed
 
--   Open Data, Materials, and Code accessible and linked in the manuscript
+-   Open Data, Materials, and Code accessible and linked in the manuscript; reasons for withheld data must be stated (e.g., ethical reasons such as privacy)
 
 -   Instructions for reproducibility checks provided and linked in the manuscript
 
@@ -72,7 +72,7 @@ There are many paths from raw data to results. Approaches that aim to wander mos
 
 For multi-study articles, a mix of replications and reproductions is possible. If possible, authors should conduct a mini meta-analysis. Authors need to disclose for each study whether it is a replication or reproduction. A mix of original studies and replication is not possible.
 
-### **Replication Methods** 
+### **Replication Methods**
 
 Theoretical contributions to methods of all types of replication reports can be submitted if they are relevant for multiple research areas.
 

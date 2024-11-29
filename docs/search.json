@@ -11,7 +11,7 @@
     "href": "submissions.html#submission-preparation-checklist",
     "title": "Submissions",
     "section": "Submission Preparation Checklist",
-    "text": "Submission Preparation Checklist\nAs part of the submission process, authors are required to check off their submission’s compliance with all of the following items, and submissions may be returned to authors that do not adhere to these guidelines.\n\nPre-print uploaded to repository and assigned a DOI\nPreregistration link accessible and included in manuscript\nPreregistration deviations disclosed and discussed\nOpen Data, Materials, and Code accessible and linked in the manuscript\nInstructions for reproducibility checks provided and linked in the manuscript"
+    "text": "Submission Preparation Checklist\nAs part of the submission process, authors are required to check off their submission’s compliance with all of the following items, and submissions may be returned to authors that do not adhere to these guidelines.\n\nPre-print uploaded to repository and assigned a DOI\nPreregistration link accessible and included in manuscript\nPreregistration deviations disclosed and discussed\nOpen Data, Materials, and Code accessible and linked in the manuscript; reasons for withheld data must be stated (e.g., ethical reasons such as privacy)\nInstructions for reproducibility checks provided and linked in the manuscript"
   },
   {
     "objectID": "submissions.html#author-guidelines",
@@ -60,7 +60,7 @@
     "href": "collection.html",
     "title": "Replication Collection",
     "section": "",
-    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2024-11-26"
+    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2024-11-29"
   },
   {
     "objectID": "about.html",
@@ -123,33 +123,33 @@
     "href": "about.html#contributions-and-references",
     "title": "About the Journal",
     "section": "Contributions and References",
-    "text": "Contributions and References\nThese guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (https://open.lnu.se/index.php/metapsychology/about/submissions)."
+    "text": "Contributions and References\nThese guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and the Replication Research Consortium (list of members avaiable online, https://osf.io/p4dzb). They are loosely based on the submission guidelines from Meta Psychology (https://open.lnu.se/index.php/metapsychology/about/submissions)."
   },
   {
     "objectID": "index.html#free-to-read-free-to-publish",
     "href": "index.html#free-to-read-free-to-publish",
-    "title": "REPLICATION RESEARCH",
+    "title": "",
     "section": "Free to read, free to publish",
     "text": "Free to read, free to publish\nReplication Research is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions."
   },
   {
-    "objectID": "index.html#valueing-high-quality-replication-research-and-interdisciplinary-discussions",
-    "href": "index.html#valueing-high-quality-replication-research-and-interdisciplinary-discussions",
-    "title": "REPLICATION RESEARCH",
-    "section": "Valueing high-quality replication research and interdisciplinary discussions",
-    "text": "Valueing high-quality replication research and interdisciplinary discussions\nReplications, that is the repeated testing of previously published claims, should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish replication research such as reproductions (same data) or replications (different data) with rigorous and transparent quality assurance (open and persistent peer review, reproducibility check) in an open and accessible way, we are here for you.\nDue to replication research gaining momentum across fields such as economics, psychology, biostatistics, humanities, and medicine, new methods to conduct and assess replications are being developed. Currently, researchers work in parallel and thus do double work. Replication Research is a place where expertise from different fields comes together in form of theory papers to shape the gold standard for transdisciplinary replication research."
+    "objectID": "index.html#valuing-high-quality-replication-research-and-interdisciplinary-discussions",
+    "href": "index.html#valuing-high-quality-replication-research-and-interdisciplinary-discussions",
+    "title": "",
+    "section": "Valuing high-quality replication research and interdisciplinary discussions",
+    "text": "Valuing high-quality replication research and interdisciplinary discussions\nReplications, that is the repeated testing of previously published claims, should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish replication research such as reproductions (same data) or replications (different data) with rigorous and transparent quality assurance (open and persistent peer review, reproducibility check) in an open and accessible way, we are here for you.\nDue to replication research gaining momentum across fields such as economics, psychology, biostatistics, humanities, and medicine, new methods to conduct and assess replications are being developed. Currently, researchers work in parallel and thus do double work. Replication Research is a place where expertise from different fields comes together in form of theory papers to shape the gold standard for transdisciplinary replication research."
   },
   {
     "objectID": "index.html#researcher-led",
     "href": "index.html#researcher-led",
-    "title": "REPLICATION RESEARCH",
+    "title": "",
     "section": "Researcher-led",
     "text": "Researcher-led\nReplication Research is hosted by the University of Münster and maintained by the Münster Center for Open Science (MüCOS) and the Framework for Open and Reproducible Research Training (FORRT).\n\n\n\n\n\n\nNote\n\n\n\n&gt;&gt; The submission portal will be made available in fall 2025"
   },
   {
     "objectID": "index.html#hosts",
     "href": "index.html#hosts",
-    "title": "REPLICATION RESEARCH",
+    "title": "",
     "section": "Hosts",
     "text": "Hosts"
   },
