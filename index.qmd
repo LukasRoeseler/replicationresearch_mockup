@@ -11,6 +11,10 @@ about:
 
 *Replication Research* is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions.
 
+::: callout-tip
+Subscribe to the [Replication Research mailing list](https://listserv.uni-muenster.de/mailman/listinfo/replication-research) for updates and call for submissions
+:::
+
 ## Valuing high-quality replication research and interdisciplinary discussions
 
 Replications, that is the repeated testing of previously published claims, should be the foundation for cumulative and quantitative science but they are not. We are here to change this. If you seek to publish replication research such as reproductions (same data) or replications (different data) with rigorous and transparent quality assurance (open and persistent peer review, reproducibility check) in an open and accessible way, we are here for you.
