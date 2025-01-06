@@ -12,7 +12,11 @@ about:
 *Replication Research* is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions.
 
 ::: callout-tip
-Subscribe to the [Replication Research mailing list](https://listserv.uni-muenster.de/mailman/listinfo/replication-research) for updates and call for submissions
+**Save the date: Join us in Münster, Germany from May 14-16 for the *Replication Research Symposium*. More details will follow soon.**
+
+The [Münster Center for Open Science](https://www.uni-muenster.de/MueCOS/en/index.html) and [FORRT](https://forrt.org/) are hosting an international symposium on replication research. Across three days, participants and experts from different areas discuss why and how replication and reproduction studies should be conducted and published in the social, cognitive, and behavioral sciences. The symposium will shape and define the scope of the interdisciplinary journal [*Replication Research*](https://lukasroeseler.github.io/replicationresearch_mockup/), which will launch in late 2025.
+
+Subscribe to the [Replication Research mailing list](https://listserv.uni-muenster.de/mailman/listinfo/replication-research) for updates on the symposium, the journal, and for calls for submissions
 :::
 
 ## Valuing high-quality replication research and interdisciplinary discussions
