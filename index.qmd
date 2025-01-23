@@ -16,7 +16,9 @@ about:
 
 The [Münster Center for Open Science](https://www.uni-muenster.de/MueCOS/en/index.html) and [FORRT](https://forrt.org/) are hosting an international symposium on replication research. Across three days, participants and experts from different areas discuss why and how replication and reproduction studies should be conducted and published in the social, cognitive, and behavioral sciences. The symposium will shape and define the scope of the interdisciplinary journal [*Replication Research*](https://lukasroeseler.github.io/replicationresearch_mockup/), which will launch in late 2025.
 
-Subscribe to the [Replication Research mailing list](https://listserv.uni-muenster.de/mailman/listinfo/replication-research) for updates on the symposium, the journal, and for calls for submissions
+![](img/R2_road.png){.lighthouse}
+
+Subscribe to the [Replication Research mailing list](https://listserv.uni-muenster.de/mailman/listinfo/replication-research) for updates on the discussion series, the symposium, the journal, and for calls for submissions.
 :::
 
 ## Valuing high-quality replication research and interdisciplinary discussions
