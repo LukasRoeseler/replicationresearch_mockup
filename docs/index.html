@@ -38,6 +38,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -137,6 +140,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#valuing-high-quality-replication-research-and-interdisciplinary-discussions" id="toc-valuing-high-quality-replication-research-and-interdisciplinary-discussions" class="nav-link" data-scroll-target="#valuing-high-quality-replication-research-and-interdisciplinary-discussions">Valuing high-quality replication research and interdisciplinary discussions</a></li>
   <li><a href="#researcher-led" id="toc-researcher-led" class="nav-link" data-scroll-target="#researcher-led">Researcher-led</a></li>
   <li><a href="#hosts" id="toc-hosts" class="nav-link" data-scroll-target="#hosts">Hosts</a></li>
+  <li><a href="#funders" id="toc-funders" class="nav-link" data-scroll-target="#funders">Funders</a></li>
   </ul>
 </nav>
     </div>
@@ -163,7 +167,7 @@ Tip
 <div class="callout-body-container callout-body">
 <p><strong>Save the date: Join us in Münster, Germany from May 14-16 for the <em>Replication Research Symposium</em>. More details will follow soon.</strong></p>
 <p>The <a href="https://www.uni-muenster.de/MueCOS/en/index.html">Münster Center for Open Science</a> and <a href="https://forrt.org/">FORRT</a> are hosting an international symposium on replication research. Across three days, participants and experts from different areas discuss why and how replication and reproduction studies should be conducted and published in the social, cognitive, and behavioral sciences. The symposium will shape and define the scope of the interdisciplinary journal <a href="https://lukasroeseler.github.io/replicationresearch_mockup/"><em>Replication Research</em></a>, which will launch in late 2025.</p>
-<p><img src="img/R2_road.png" class="lighthouse img-fluid"></p>
+<p><a href="img/R2_road.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/R2_road.png" class="img-fluid"></a></p>
 <p>Subscribe to the <a href="https://listserv.uni-muenster.de/mailman/listinfo/replication-research">Replication Research mailing list</a> for updates on the discussion series, the symposium, the journal, and for calls for submissions.</p>
 </div>
 </div>
@@ -194,7 +198,11 @@ Note
 <section id="hosts" class="level2">
 <h2 data-anchor-id="hosts">Hosts</h2>
 <p><img src="img/mücos_logo.jpg" class="img-fluid" width="300"> <img src="img/forrt_logo.png" class="img-fluid" width="300"></p>
+</section>
+<section id="funders" class="level2">
+<h2 data-anchor-id="funders">Funders</h2>
 <p><img src="img/unimünster_logo.jpg" class="img-fluid" width="361"></p>
+<p><img src="img/cropped-Logo_Blog_neu.png" class="img-fluid" width="428"></p>
 <hr>
 
 
@@ -630,6 +638,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","openEffect":"zoom","loop":false});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
