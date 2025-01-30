@@ -8,7 +8,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**WARNING** This is a concept for the in development publication platform for replication research. Submissions are not open yet and all content is subject to change. If you have feedback, please get in touch with lukas.roeseler[at]uni-muenster.de."
+    content: "**WARNING** This website is in development. Submissions are not open yet and all content is subject to change. If you have feedback, please get in touch with lukas.roeseler[at]uni-muenster.de."
     type: primary
     position: below-navbar
   
@@ -16,12 +16,13 @@ website:
     logo: img/rr_blue.jpg
     left:
       - href: index.qmd
-        text: Home
+        text: R2
+      - href: symposium.qmd
+        text: Symposium
       - about.qmd
       - submissions.qmd
       - review.qmd
       - Issues.qmd
-      - collection.qmd
       - editorialteam.qmd
     tools:
       - icon: github

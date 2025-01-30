@@ -11,14 +11,16 @@ about:
 
 *Replication Research* is a Diamond Open Access Journal with strict and entirely transparent quality control and no author processing charges. We publish close and conceptual replications as well as reproductions.
 
+## **Save the date: Join us in Münster, Germany from May 14-16 for the *Replication Research Symposium***
+
 ::: callout-tip
-**Save the date: Join us in Münster, Germany from May 14-16 for the *Replication Research Symposium*. More details will follow soon.**
+The [Münster Center for Open Science](https://www.uni-muenster.de/MueCOS/en/index.html) and [FORRT](https://forrt.org/) are hosting an international symposium on replication research. Across three days, participants and experts from different areas discuss why and how replication and reproduction studies should be conducted and published in the social, cognitive, and behavioral sciences. The symposium will shape and define the scope of the interdisciplinary journal [*Replication Research*](https://lukasroeseler.github.io/replicationresearch_mockup/), which will launch in late 2025. Check out the [Call for Proposals](https://indico.uni-muenster.de/event/3176/abstracts/#submit-abstract) and submit abstracts until February 28.
 
-The [Münster Center for Open Science](https://www.uni-muenster.de/MueCOS/en/index.html) and [FORRT](https://forrt.org/) are hosting an international symposium on replication research. Across three days, participants and experts from different areas discuss why and how replication and reproduction studies should be conducted and published in the social, cognitive, and behavioral sciences. The symposium will shape and define the scope of the interdisciplinary journal [*Replication Research*](https://lukasroeseler.github.io/replicationresearch_mockup/), which will launch in late 2025.
+-   Subscribe to the [Replication Research mailing list](https://listserv.uni-muenster.de/mailman/listinfo/replication-research) for updates on the discussion series, the symposium, the journal, and for calls for submissions.
 
-![](img/R2_road.png){.lightbox}
+-   Road to Replication Research: [online discussion series](https://lukasroeseler.github.io/replicationresearch_mockup/img/R2_road.png)
 
-Subscribe to the [Replication Research mailing list](https://listserv.uni-muenster.de/mailman/listinfo/replication-research) for updates on the discussion series, the symposium, the journal, and for calls for submissions.
+-   Replication Research Symposium: [Call for Proposals](https://lukasroeseler.github.io/replicationresearch_mockup/img/R2_cfp.png) / [Submit abstract](https://indico.uni-muenster.de/event/3176/abstracts/#submit-abstract)
 :::
 
 ## Valuing high-quality replication research and interdisciplinary discussions
