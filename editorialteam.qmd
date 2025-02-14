@@ -2,22 +2,17 @@
 title: "Editorial Team"
 ---
 
-|                          |                                     |
-|--------------------------|-------------------------------------|
-| **Person**               | **Role**                            |
-| NAME                     | Journal Manager                     |
-| NAME                     | Editor-in-Chief                     |
-| MüCOS Research Assistant | Editorial Assistant                 |
-| NAME                     | Editorial Board, Psychology         |
-| NAME                     | Editorial Board, Medicine           |
-| NAME                     | Editorial Board, Biology            |
-| NAME                     | Editorial Board, Political Sciences |
-| NAME                     | Editorial Board, Education Sciences |
-| NAME                     | Action Editor                       |
-| NAME                     | Advisory Board                      |
-| MüCOS Research Assistant | Reproducibility Manager             |
-| NAME                     | Reproducibility Team                |
-| NAME                     | Reproducibility Team                |
+|  |  |
+|----|----|
+| **Person** | **Role** |
+| Lukas Röseler | Journal Manager / EIC |
+| MüCOS Research Assistant | Editorial Assistant / Reproducibility Manager |
+| Flavio Azevedo | Associate Editor (Political Science) |
+| Lukas Wallrich | Associate Editor (Management Sciences, Psychology, Methods) |
+| Susanne Adler | Associate Editor (Marketing) |
+| Janik Goltermann | Associate Editor (Mental Health, Neuroimaging) |
+| Max Korbmacher | Associate Editor (Neuroscience, Psychology) |
+| Thomas Rhys Evans | Associate Editor (Psychology, Methods) |
 
 # Editorial Members' Conflict of Interest
 

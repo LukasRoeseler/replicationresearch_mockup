@@ -8,7 +8,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**WARNING** This website is in development. Submissions are not open yet and all content is subject to change. If you have feedback, please get in touch with lukas.roeseler[at]uni-muenster.de."
+    content: "This website is in development. Submissions are not open until fall 2025. If you have feedback, please get in touch with lukas.roeseler[at]uni-muenster.de."
     type: primary
     position: below-navbar
   
