@@ -52,25 +52,17 @@ The following table stems from the [Center for Open Science](https://www.cos.io/
 | Reporting Transparency | 3         | A party independent from the authors certified that the authors adhered to the cited reporting guideline.                                                              |
 +------------------------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Verification Practice            | Definition                                                                                                                                                                                          |
-+==================================+=====================================================================================================================================================================================================+
-| Comprehensive Reporting          | A party independent from the authors verified that the study registration, protocol, and analysis plan match the final report--and the final report acknowledges any deviations from these outputs. |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Computational Reproducibility    | A party independent from the authors verified that reported results reproduce using shared data and code.                                                                                           |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Verification Practice | Definition |
+|----|----|
+| Comprehensive Reporting | A party independent from the authors verified that the study registration, protocol, and analysis plan match the final report--and the final report acknowledges any deviations from these outputs. |
+| Computational Reproducibility | A party independent from the authors verified that reported results reproduce using shared data and code. |
 
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Verification Study Type          | Definition                                                                                                                                                                  |
-+==================================+=============================================================================================================================================================================+
-| Replication                      | A study that aims to provide diagnostic evidence about claims from a prior study by repeating the original study procedures in a new sample.                                |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Registered Report                | A registered study in which a study protocol and analysis plan are peer reviewed, and the study is pre-accepted by a publication outlet, before the research is undertaken. |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Multiverse                       | A study that tests the research question of interest across multiple datasets arising from different, reasonable choices for processing and analyzing the same data.        |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Many Analyst                     | A study in which independent analysis teams conduct plausible alternative analyses of a research question on the same dataset.                                              |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Verification Study Type | Definition |
+|----|----|
+| Replication | A study that aims to provide diagnostic evidence about claims from a prior study by repeating the original study procedures in a new sample. |
+| Registered Report | A registered study in which a study protocol and analysis plan are peer reviewed, and the study is pre-accepted by a publication outlet, before the research is undertaken. |
+| Multiverse | A study that tests the research question of interest across multiple datasets arising from different, reasonable choices for processing and analyzing the same data. |
+| Many Analyst | A study in which independent analysis teams conduct plausible alternative analyses of a research question on the same dataset. |
 
 ## Publication Process
 

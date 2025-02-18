@@ -3,7 +3,7 @@ title: "Editorial Team"
 ---
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Person** | **Role** |
 | Lukas Röseler | Journal Manager / EIC |
 | MüCOS Research Assistant | Editorial Assistant / Reproducibility Manager |
