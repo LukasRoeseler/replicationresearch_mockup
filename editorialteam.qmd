@@ -3,7 +3,7 @@ title: "Editorial Team"
 ---
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Person** | **Role** |
 | Lukas Röseler | Journal Manager / EIC |
 | MüCOS Research Assistant | Editorial Assistant / Reproducibility Manager |
@@ -14,9 +14,16 @@ title: "Editorial Team"
 | Max Korbmacher | Associate Editor (Neuroscience, Psychology) |
 | Thomas Rhys Evans | Associate Editor (Psychology, Methods) |
 
-# Editorial Members' Conflict of Interest
+# Guidelines for Editors
 
-For the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor. If an editor is a co-author in a submitted manuscript, they must include a COI statement and a different editor must handle the submission.
+-   **Handling Additional Comment**\
+    Peer review is open to every researcher who provides comments on the article before the respective deadline. While feedback external reviewers (in contrast to invited reviewers) will be incorporated into the review letters, external reviewers will not be credited by the journal as reviewers as they do not fill out the reviewer disclosure form (see Review Guidelines). In the case of many thorough external reviews, editors should consider issueing an open call for comments on the respective manuscript.
+
+-   **Different standards between fields**\
+    Editors acknowledge that methodological and conceptual standards across fields vary. To allow research from fields with less strict standards to be published, too, editors are responsible for the reviews to be framed adequately.
+
+-   **Editorial Members' Conflict of Interest\
+    **For the foundation of Replication Research, we gathered experts on replication research from various disciplines. At the same time, replication research is conducted and published only rarely. This might lead to potential conflicts of interests, where members of the editorial team or their close colleagues submit research articles. For this reason, we require reviewers to disclose whether they have been working together with the author / one of the authors or with the handling editor. If an editor is a co-author in a submitted manuscript, they must include a COI statement and a different editor must handle the submission.
 
 ::: callout-note
 # *Replication Research* Network
