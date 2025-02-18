@@ -16,10 +16,10 @@ title: "Editorial Team"
 
 # Guidelines for Editors
 
--   **Handling Additional Comment**\
+-   **Handling and Crediting of Additional Comments**\
     Peer review is open to every researcher who provides comments on the article before the respective deadline. While feedback external reviewers (in contrast to invited reviewers) will be incorporated into the review letters, external reviewers will not be credited by the journal as reviewers as they do not fill out the reviewer disclosure form (see Review Guidelines). In the case of many thorough external reviews, editors should consider issueing an open call for comments on the respective manuscript.
 
--   **Different standards between fields**\
+-   **Different Standards Between Fields**\
     Editors acknowledge that methodological and conceptual standards across fields vary. To allow research from fields with less strict standards to be published, too, editors are responsible for the reviews to be framed adequately.
 
 -   **Editorial Members' Conflict of Interest\

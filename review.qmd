@@ -65,3 +65,5 @@ Please indicate what parts of the submitted research you reviewed.
 -   I am an editor for *Replication Research*.
 
 -   In cases where I have suggested the citation of studies that I co-authored, I have disclosed that I am a co-author and justified why this paper and not another one should be cited.
+
+-   I was uncomfortable reviewing the manuscript. \[If yes: Openended: Please provide a brief explanation \_\_\_\_\]
