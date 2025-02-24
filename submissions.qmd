@@ -32,6 +32,9 @@ Please note that the entire review process is open and reviews will be permanent
 -   **Pre-Prints\
     **Before submission, articles must be posted to a pre-print server that assigns the article a DOI (e.g., arXiv, OSF preprints, Zenodo).
 
+-   **Author Contributions\
+    **Author contributions must be reported using the [Contributor Role Taxonomy (CRediT)](https://credit.niso.org).
+
 -   **Preregistration\
     **Studies must be preregistered. Exceptions need to be justified and clearly communicated as exploratory studies. The link to the preregistration must be included in the manuscript and accessible during peer review. Note that secondary data analyses can be preregistered, too. The authors must disclose whether the analysis plan was included in the preregistration and whether the analysis script was preregistered. All deviations from the preregistration must be discussed openly with respect to (1) a description of the deviation, (2) a justification for it, and (3) a note on how the deviation does or might affect the results.
 
@@ -39,13 +42,13 @@ Please note that the entire review process is open and reviews will be permanent
     **Data, materials, and code must be posted to a trusted repository (e.g., osf.io, researchbox.org, zenodo.org). Links to the repository must be included in the manuscript. Upon acceptance, the authors must create a frozen version of the repository and update all links (e.g., via OSF Registrations). Exceptions to this rule must be identified and justified at article submission (e.g., data privacy, ethical reasons). In these cases, authors must add a justification in their report (Closed Data Statement).
 
 -   **Transparency Statement**\
-    Authors must declare all potential conflicts of interest, include the [21 word solution](http://dx.doi.org/10.2139/ssrn.2160588) or a derivative thereof, and explain if and how they are connected to the authors of the original work. Authors must declare use of AI (e.g., "The introduction has been written by ChatGTP 4.0").
+    Authors must declare all potential conflicts of interest, include the [21 word solution](http://dx.doi.org/10.2139/ssrn.2160588) or a derivative thereof, and explain if and how they are connected to the authors of the original work. Authors must declare use of AI (e.g., "The introduction has been written by ChatGTP 4.0"). Finally, for empirical submissions, authors must include a file-drawer statement in which they declare that they have reported all studies that they carried out on this topic.
 
 -   **Reproducibility\
     **Results need to be push-button-replicable. That means, the authors need to provide simple instructions on how to reproduce all results reported in the manuscript. To facilitate reproducibility checks, we encourage authors to use free open source software. A link to the instructions needs to be included in the manuscript.
 
 -   **PubPeer commenting\
-    **Regardless of the decision (accept, revise, reject), reviews and responses will be posted to PubPeer (pubpeer.com) after each stage.
+    **Regardless of the decision (accept, revise, reject), reviews and responses will be posted to PubPeer ([pubpeer.com](https://pubpeer.com)) after each review stage. They will be prominently labelled as Peer-Review Reports to avoid overloading institutional review boards.
 
 -   **Collaborative Copy-Editing\
     **Replication Research has no author processing charges. To be able to maintain the journal, authors are expected to engage in copy-editing. Consequently, this phase will take as long as a peer-review round.
