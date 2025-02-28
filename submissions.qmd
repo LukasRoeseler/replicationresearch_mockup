@@ -93,6 +93,10 @@ Articles whose first authors are enrolled at a university at the time of submiss
 
 *Replication Research* accepts registered reports for studies where new data is collected. More information on registered repots is available in the [template guide provided by the OSF](#0).
 
+### **Reports that are already part of a Meta-Study**
+
+A considerable proportion of replications have been conducted as part of a large-scale project (e.g., Reproducibility Project Psychology). In these cases, only the meta-study is reviewed and not the individual articles. *Replication Research* accepts manuscripts that describe an individual replication even if it has already been part of a published meta-study provided that the manuscript transparently describes the relationship with the specified meta-study.
+
 ## **Contributions and References**
 
-These guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (<https://open.lnu.se/index.php/metapsychology/about/submissions>). 
+These guidelines are shared under a CC 4.0 by Attribution License and are loosely based on the submission guidelines from Meta Psychology (<https://open.lnu.se/index.php/metapsychology/about/submissions>). For a recommended citation, please see <https://osf.io/kupqt/>.
