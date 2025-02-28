@@ -158,7 +158,7 @@
     "href": "collection.html",
     "title": "Replication Collection",
     "section": "",
-    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2025-02-24"
+    "text": "This is a collection of replication research based on the FORRT Replication Database. Please note that these articles have not necessarily been peer-reviewed or published by Replication Research. This collection serves as a way to make replication research across disciplines visible. To add a replication study, please use this Google form and send an e-mail to lukas.roeseler[at]uni-muenster.de.\n\n\n\n\n\n\n\n\nLast update: 2025-02-28"
   },
   {
     "objectID": "editorialteam.html",
@@ -207,13 +207,13 @@
     "href": "submissions.html#badges",
     "title": "Submissions",
     "section": "Badges",
-    "text": "Badges\nFor articles meeting the requirements listed in the Author Guidelines, we assign the following badges (images provided by OSF):\n  \n\nStudent Reports\nArticles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be mentioned in the manuscript. Review for student reports is aimed to be faster (two weeks deadline for one review instead of four weeks for two independent reviews). Quality standards are as high as non-student reports. Reviews are still open and articles need to adhere to submission guidelines and TOP guidelines. Please note that students can also submit their articles as non-student reports.\n\n\nRegistered Reports\nReplication Research accepts registered reports for studies where new data is collected. More information on registered repots is available in the template guide provided by the OSF."
+    "text": "Badges\nFor articles meeting the requirements listed in the Author Guidelines, we assign the following badges (images provided by OSF):\n  \n\nStudent Reports\nArticles whose first authors are enrolled at a university at the time of submission can be submitted as Student Report. Submissions need to include a certificate of enrollment at a university for the first author. None of the other authors need to be students. Supervisors do not need to be included as authors but need to be mentioned in the manuscript. Review for student reports is aimed to be faster (two weeks deadline for one review instead of four weeks for two independent reviews). Quality standards are as high as non-student reports. Reviews are still open and articles need to adhere to submission guidelines and TOP guidelines. Please note that students can also submit their articles as non-student reports.\n\n\nRegistered Reports\nReplication Research accepts registered reports for studies where new data is collected. More information on registered repots is available in the template guide provided by the OSF.\n\n\nReports that are already part of a Meta-Study\nA considerable proportion of replications have been conducted as part of a large-scale project (e.g., Reproducibility Project Psychology). In these cases, only the meta-study is reviewed and not the individual articles. Replication Research accepts manuscripts that describe an individual replication even if it has already been part of a published meta-study provided that the manuscript transparently describes the relationship with the specified meta-study."
   },
   {
     "objectID": "submissions.html#contributions-and-references",
     "href": "submissions.html#contributions-and-references",
     "title": "Submissions",
     "section": "Contributions and References",
-    "text": "Contributions and References\nThese guidelines are shared under a CC 4.0 by Attribution License and have been created by Lukas Röseler (Writing - first draft) and XXX (CRediT). They are loosely based on the submission guidelines from Meta Psychology (https://open.lnu.se/index.php/metapsychology/about/submissions)."
+    "text": "Contributions and References\nThese guidelines are shared under a CC 4.0 by Attribution License and are loosely based on the submission guidelines from Meta Psychology (https://open.lnu.se/index.php/metapsychology/about/submissions). For a recommended citation, please see https://osf.io/kupqt/."
   }
 ]
